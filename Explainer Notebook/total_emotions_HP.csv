@@ -1,0 +1,1436 @@
+movie,chapter,scene_counting,emotion,prediction
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,neutral,3
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,sadness,1
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,worry,5
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,surprise,2
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,love,1
+Harry Potter and the Philosopher's Stone,Doorstep Delivery,1,happiness,1
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,love,4
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,neutral,4
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,relief,2
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,sadness,2
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,worry,4
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,fun,1
+Harry Potter and the Philosopher's Stone,The Vanishing Glass,2,happiness,2
+Harry Potter and the Philosopher's Stone,Letters from No One,3,love,1
+Harry Potter and the Philosopher's Stone,Letters from No One,3,neutral,3
+Harry Potter and the Philosopher's Stone,Letters from No One,3,relief,1
+Harry Potter and the Philosopher's Stone,Letters from No One,3,sadness,1
+Harry Potter and the Philosopher's Stone,Letters from No One,3,surprise,2
+Harry Potter and the Philosopher's Stone,Letters from No One,3,worry,6
+Harry Potter and the Philosopher's Stone,Letters from No One,3,hate,1
+Harry Potter and the Philosopher's Stone,Letters from No One,3,fun,2
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,relief,1
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,neutral,6
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,happiness,3
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,sadness,2
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,surprise,3
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,hate,2
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,love,2
+Harry Potter and the Philosopher's Stone,Keeper of the Keys,4,worry,3
+Harry Potter and the Philosopher's Stone,Diagon Alley,5,happiness,2
+Harry Potter and the Philosopher's Stone,Diagon Alley,5,worry,3
+Harry Potter and the Philosopher's Stone,Diagon Alley,5,surprise,3
+Harry Potter and the Philosopher's Stone,Diagon Alley,5,relief,1
+Harry Potter and the Philosopher's Stone,Diagon Alley,5,neutral,10
+Harry Potter and the Philosopher's Stone,Gringotts,6,worry,4
+Harry Potter and the Philosopher's Stone,Gringotts,6,surprise,1
+Harry Potter and the Philosopher's Stone,Gringotts,6,relief,1
+Harry Potter and the Philosopher's Stone,Gringotts,6,love,1
+Harry Potter and the Philosopher's Stone,Gringotts,6,neutral,3
+Harry Potter and the Philosopher's Stone,Ollivanders,7,worry,1
+Harry Potter and the Philosopher's Stone,Ollivanders,7,enthusiasm,1
+Harry Potter and the Philosopher's Stone,Ollivanders,7,happiness,2
+Harry Potter and the Philosopher's Stone,Ollivanders,7,surprise,2
+Harry Potter and the Philosopher's Stone,The Boy Who Lived,8,sadness,1
+Harry Potter and the Philosopher's Stone,The Boy Who Lived,8,neutral,3
+Harry Potter and the Philosopher's Stone,The Boy Who Lived,8,worry,4
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,neutral,2
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,hate,1
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,relief,1
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,surprise,1
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,fun,1
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,enthusiasm,1
+Harry Potter and the Philosopher's Stone,Platform 9¾,9,worry,1
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,surprise,2
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,neutral,7
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,worry,2
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,hate,1
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,sadness,2
+Harry Potter and the Philosopher's Stone,Ron and Hermione,10,relief,2
+Harry Potter and the Philosopher's Stone,Welcome to Hogwarts,11,relief,1
+Harry Potter and the Philosopher's Stone,Welcome to Hogwarts,11,fun,1
+Harry Potter and the Philosopher's Stone,Welcome to Hogwarts,11,worry,3
+Harry Potter and the Philosopher's Stone,Welcome to Hogwarts,11,neutral,1
+Harry Potter and the Philosopher's Stone,The Sorting Hat,12,fun,1
+Harry Potter and the Philosopher's Stone,The Sorting Hat,12,neutral,5
+Harry Potter and the Philosopher's Stone,The Sorting Hat,12,surprise,1
+Harry Potter and the Philosopher's Stone,The Sorting Hat,12,relief,2
+Harry Potter and the Philosopher's Stone,The Sorting Hat,12,worry,7
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,hate,1
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,neutral,9
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,happiness,2
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,surprise,1
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,worry,6
+Harry Potter and the Philosopher's Stone,Nick and Other Residents,13,fun,3
+Harry Potter and the Philosopher's Stone,Potions and Parcels,14,fun,4
+Harry Potter and the Philosopher's Stone,Potions and Parcels,14,sadness,1
+Harry Potter and the Philosopher's Stone,Potions and Parcels,14,worry,5
+Harry Potter and the Philosopher's Stone,Potions and Parcels,14,neutral,3
+Harry Potter and the Philosopher's Stone,Potions and Parcels,14,relief,2
+Harry Potter and the Philosopher's Stone,New Seeker,15,sadness,2
+Harry Potter and the Philosopher's Stone,New Seeker,15,enthusiasm,1
+Harry Potter and the Philosopher's Stone,New Seeker,15,fun,1
+Harry Potter and the Philosopher's Stone,New Seeker,15,worry,9
+Harry Potter and the Philosopher's Stone,New Seeker,15,surprise,3
+Harry Potter and the Philosopher's Stone,New Seeker,15,neutral,12
+Harry Potter and the Philosopher's Stone,New Seeker,15,happiness,2
+Harry Potter and the Philosopher's Stone,New Seeker,15,relief,1
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,neutral,6
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,love,2
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,hate,1
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,fun,1
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,sadness,1
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,surprise,1
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,worry,2
+Harry Potter and the Philosopher's Stone,Three-Headed Sentinel,16,empty,1
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,hate,2
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,neutral,3
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,relief,2
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,worry,3
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,enthusiasm,1
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,happiness,1
+Harry Potter and the Philosopher's Stone,Facts and Feathers,17,sadness,1
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,hate,1
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,happiness,1
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,neutral,5
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,sadness,3
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,surprise,1
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,worry,7
+Harry Potter and the Philosopher's Stone,Mountain Troll,18,fun,2
+Harry Potter and the Philosopher's Stone,Quidditch,19,fun,1
+Harry Potter and the Philosopher's Stone,Quidditch,19,worry,1
+Harry Potter and the Philosopher's Stone,Quidditch,19,surprise,1
+Harry Potter and the Philosopher's Stone,Quidditch,19,sadness,3
+Harry Potter and the Philosopher's Stone,Quidditch,19,neutral,11
+Harry Potter and the Philosopher's Stone,Quidditch,19,happiness,2
+Harry Potter and the Philosopher's Stone,Quidditch,19,hate,1
+Harry Potter and the Philosopher's Stone,Interference Overcome,20,worry,1
+Harry Potter and the Philosopher's Stone,Interference Overcome,20,neutral,4
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,neutral,11
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,sadness,1
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,surprise,3
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,worry,5
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,hate,1
+Harry Potter and the Philosopher's Stone,Christmas Gift,21,happiness,5
+Harry Potter and the Philosopher's Stone,Cloaked in darkness,22,worry,1
+Harry Potter and the Philosopher's Stone,Cloaked in darkness,22,sadness,1
+Harry Potter and the Philosopher's Stone,Cloaked in darkness,22,neutral,1
+Harry Potter and the Philosopher's Stone,Cloaked in darkness,22,happiness,1
+Harry Potter and the Philosopher's Stone,Cloaked in darkness,22,enthusiasm,1
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,enthusiasm,2
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,happiness,1
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,neutral,2
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,sadness,1
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,surprise,2
+Harry Potter and the Philosopher's Stone,The Mirror of Erised,23,fun,3
+Harry Potter and the Philosopher's Stone,Norbert,24,enthusiasm,1
+Harry Potter and the Philosopher's Stone,Norbert,24,fun,3
+Harry Potter and the Philosopher's Stone,Norbert,24,hate,1
+Harry Potter and the Philosopher's Stone,Norbert,24,love,1
+Harry Potter and the Philosopher's Stone,Norbert,24,neutral,21
+Harry Potter and the Philosopher's Stone,Norbert,24,relief,2
+Harry Potter and the Philosopher's Stone,Norbert,24,sadness,2
+Harry Potter and the Philosopher's Stone,Norbert,24,surprise,5
+Harry Potter and the Philosopher's Stone,Norbert,24,worry,7
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,surprise,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,relief,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,neutral,3
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,love,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,happiness,2
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,fun,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,enthusiasm,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,empty,1
+Harry Potter and the Philosopher's Stone,The Forbidden Forest,25,worry,9
+Harry Potter and the Philosopher's Stone,Up to Something,26,neutral,2
+Harry Potter and the Philosopher's Stone,Up to Something,26,worry,3
+Harry Potter and the Philosopher's Stone,Up to Something,26,surprise,1
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,hate,2
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,surprise,7
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,fun,1
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,happiness,1
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,love,1
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,worry,11
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,neutral,13
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,relief,6
+Harry Potter and the Philosopher's Stone,Through the Trapdoor,27,sadness,4
+Harry Potter and the Philosopher's Stone,Wizard's Chess,28,neutral,3
+Harry Potter and the Philosopher's Stone,Wizard's Chess,28,fun,1
+Harry Potter and the Philosopher's Stone,Sacrifice Play,29,worry,2
+Harry Potter and the Philosopher's Stone,Sacrifice Play,29,neutral,4
+Harry Potter and the Philosopher's Stone,Sacrifice Play,29,happiness,1
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,empty,1
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,fun,1
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,neutral,1
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,worry,6
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,sadness,1
+Harry Potter and the Philosopher's Stone,Man With Two Faces,30,surprise,2
+Harry Potter and the Philosopher's Stone,Magic Touch,31,worry,2
+Harry Potter and the Philosopher's Stone,Magic Touch,31,neutral,2
+Harry Potter and the Philosopher's Stone,Mark of Love,32,worry,2
+Harry Potter and the Philosopher's Stone,Mark of Love,32,enthusiasm,1
+Harry Potter and the Philosopher's Stone,Mark of Love,32,love,2
+Harry Potter and the Philosopher's Stone,Mark of Love,32,surprise,2
+Harry Potter and the Philosopher's Stone,Mark of Love,32,relief,1
+Harry Potter and the Philosopher's Stone,Mark of Love,32,neutral,2
+Harry Potter and the Philosopher's Stone,House Cup Winner,33,relief,1
+Harry Potter and the Philosopher's Stone,House Cup Winner,33,happiness,1
+Harry Potter and the Philosopher's Stone,Not Really Going Home,34,worry,3
+Harry Potter and the Philosopher's Stone,Not Really Going Home,34,happiness,1
+Harry Potter and the Philosopher's Stone,Not Really Going Home,34,sadness,2
+Harry Potter and the Chamber of Secrets,In a cage,35,empty,2
+Harry Potter and the Chamber of Secrets,In a cage,35,enthusiasm,1
+Harry Potter and the Chamber of Secrets,In a cage,35,neutral,3
+Harry Potter and the Chamber of Secrets,In a cage,35,surprise,3
+Harry Potter and the Chamber of Secrets,In a cage,35,worry,3
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,fun,1
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,neutral,15
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,sadness,1
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,worry,12
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,happiness,2
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,surprise,1
+Harry Potter and the Chamber of Secrets,Dobby's warning,36,hate,2
+Harry Potter and the Chamber of Secrets,Car rescue,37,neutral,3
+Harry Potter and the Chamber of Secrets,Car rescue,37,relief,1
+Harry Potter and the Chamber of Secrets,Car rescue,37,sadness,2
+Harry Potter and the Chamber of Secrets,The Burrow,38,hate,1
+Harry Potter and the Chamber of Secrets,The Burrow,38,happiness,2
+Harry Potter and the Chamber of Secrets,The Burrow,38,love,2
+Harry Potter and the Chamber of Secrets,The Burrow,38,neutral,4
+Harry Potter and the Chamber of Secrets,The Burrow,38,sadness,4
+Harry Potter and the Chamber of Secrets,The Burrow,38,surprise,2
+Harry Potter and the Chamber of Secrets,The Burrow,38,worry,4
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,worry,5
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,enthusiasm,1
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,happiness,1
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,neutral,3
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,fun,1
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,sadness,1
+Harry Potter and the Chamber of Secrets,To Diagon Alley,39,relief,1
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,fun,1
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,worry,2
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,happiness,3
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,sadness,3
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,love,1
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,neutral,8
+Harry Potter and the Chamber of Secrets,Flourish and Blotts,40,relief,1
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,sadness,2
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,surprise,1
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,worry,4
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,fun,2
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,enthusiasm,3
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,hate,1
+Harry Potter and the Chamber of Secrets,Flying to Hogwarts,41,neutral,5
+Harry Potter and the Chamber of Secrets,Whomping Willow,42,surprise,1
+Harry Potter and the Chamber of Secrets,Whomping Willow,42,neutral,2
+Harry Potter and the Chamber of Secrets,Whomping Willow,42,fun,1
+Harry Potter and the Chamber of Secrets,Whomping Willow,42,worry,3
+Harry Potter and the Chamber of Secrets,Not expelled…today,43,sadness,1
+Harry Potter and the Chamber of Secrets,Not expelled…today,43,worry,5
+Harry Potter and the Chamber of Secrets,Not expelled…today,43,neutral,3
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,fun,1
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,happiness,3
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,hate,1
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,neutral,7
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,sadness,2
+Harry Potter and the Chamber of Secrets,Mandrakes - Ron's Howler,44,worry,4
+Harry Potter and the Chamber of Secrets,Gilderoy Lockhart,45,fun,1
+Harry Potter and the Chamber of Secrets,Gilderoy Lockhart,45,hate,1
+Harry Potter and the Chamber of Secrets,Gilderoy Lockhart,45,neutral,3
+Harry Potter and the Chamber of Secrets,Gilderoy Lockhart,45,worry,1
+Harry Potter and the Chamber of Secrets,Gilderoy Lockhart,45,happiness,1
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,worry,6
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,surprise,4
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,sadness,1
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,neutral,6
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,love,1
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,hate,1
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,happiness,1
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,fun,2
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,relief,2
+Harry Potter and the Chamber of Secrets,Mudbloods and murmurs,46,empty,1
+Harry Potter and the Chamber of Secrets,Writing on the wall,47,hate,1
+Harry Potter and the Chamber of Secrets,Kill!,48,neutral,8
+Harry Potter and the Chamber of Secrets,Kill!,48,fun,1
+Harry Potter and the Chamber of Secrets,Kill!,48,happiness,1
+Harry Potter and the Chamber of Secrets,Kill!,48,sadness,6
+Harry Potter and the Chamber of Secrets,Kill!,48,surprise,5
+Harry Potter and the Chamber of Secrets,Kill!,48,worry,3
+Harry Potter and the Chamber of Secrets,Kill!,48,love,1
+Harry Potter and the Chamber of Secrets,About the Chamber,49,neutral,8
+Harry Potter and the Chamber of Secrets,About the Chamber,49,worry,5
+Harry Potter and the Chamber of Secrets,About the Chamber,49,surprise,2
+Harry Potter and the Chamber of Secrets,About the Chamber,49,sadness,1
+Harry Potter and the Chamber of Secrets,About the Chamber,49,relief,1
+Harry Potter and the Chamber of Secrets,About the Chamber,49,fun,2
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,sadness,1
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,neutral,8
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,fun,1
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,surprise,1
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,worry,1
+Harry Potter and the Chamber of Secrets,Rogue Bludger,50,relief,2
+Harry Potter and the Chamber of Secrets,No longer safe,51,sadness,4
+Harry Potter and the Chamber of Secrets,No longer safe,51,surprise,4
+Harry Potter and the Chamber of Secrets,No longer safe,51,neutral,6
+Harry Potter and the Chamber of Secrets,No longer safe,51,hate,1
+Harry Potter and the Chamber of Secrets,No longer safe,51,happiness,3
+Harry Potter and the Chamber of Secrets,No longer safe,51,fun,1
+Harry Potter and the Chamber of Secrets,No longer safe,51,enthusiasm,1
+Harry Potter and the Chamber of Secrets,No longer safe,51,empty,1
+Harry Potter and the Chamber of Secrets,No longer safe,51,worry,10
+Harry Potter and the Chamber of Secrets,Dueling Club,52,worry,3
+Harry Potter and the Chamber of Secrets,Dueling Club,52,sadness,1
+Harry Potter and the Chamber of Secrets,Dueling Club,52,enthusiasm,2
+Harry Potter and the Chamber of Secrets,Dueling Club,52,fun,1
+Harry Potter and the Chamber of Secrets,Dueling Club,52,happiness,3
+Harry Potter and the Chamber of Secrets,Dueling Club,52,neutral,2
+Harry Potter and the Chamber of Secrets,Dueling Club,52,love,1
+Harry Potter and the Chamber of Secrets,A Parselmouth,53,happiness,1
+Harry Potter and the Chamber of Secrets,A Parselmouth,53,hate,2
+Harry Potter and the Chamber of Secrets,A Parselmouth,53,neutral,5
+Harry Potter and the Chamber of Secrets,A Parselmouth,53,sadness,1
+Harry Potter and the Chamber of Secrets,A Parselmouth,53,worry,4
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,sadness,1
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,neutral,5
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,relief,2
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,worry,3
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,fun,1
+Harry Potter and the Chamber of Secrets,Nothing to tell,54,happiness,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,fun,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,enthusiasm,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,hate,2
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,worry,6
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,neutral,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,sadness,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,happiness,1
+Harry Potter and the Chamber of Secrets,Polyjuice Potion,55,surprise,1
+Harry Potter and the Chamber of Secrets,Harry and Ron transformed.,56,happiness,1
+Harry Potter and the Chamber of Secrets,Harry and Ron transformed.,56,neutral,2
+Harry Potter and the Chamber of Secrets,Harry and Ron transformed.,56,relief,1
+Harry Potter and the Chamber of Secrets,Harry and Ron transformed.,56,sadness,1
+Harry Potter and the Chamber of Secrets,Harry and Ron transformed.,56,worry,3
+Harry Potter and the Chamber of Secrets,Well? Do you?,57,surprise,2
+Harry Potter and the Chamber of Secrets,Well? Do you?,57,worry,1
+Harry Potter and the Chamber of Secrets,Well? Do you?,57,neutral,2
+Harry Potter and the Chamber of Secrets,Well? Do you?,57,fun,1
+Harry Potter and the Chamber of Secrets,The diary,58,neutral,5
+Harry Potter and the Chamber of Secrets,The diary,58,sadness,1
+Harry Potter and the Chamber of Secrets,The diary,58,surprise,2
+Harry Potter and the Chamber of Secrets,The diary,58,worry,5
+Harry Potter and the Chamber of Secrets,Tom Riddle,59,neutral,1
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,hate,1
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,neutral,6
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,relief,1
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,sadness,1
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,worry,4
+Harry Potter and the Chamber of Secrets,"Hello, can you hear me?",60,surprise,3
+Harry Potter and the Chamber of Secrets,Petrified,61,worry,3
+Harry Potter and the Chamber of Secrets,Petrified,61,surprise,1
+Harry Potter and the Chamber of Secrets,Petrified,61,neutral,6
+Harry Potter and the Chamber of Secrets,Petrified,61,fun,1
+Harry Potter and the Chamber of Secrets,Petrified,61,empty,1
+Harry Potter and the Chamber of Secrets,"chance. We're stronger, quicker and smarter.",62,sadness,1
+Harry Potter and the Chamber of Secrets,"chance. We're stronger, quicker and smarter.",62,worry,4
+Harry Potter and the Chamber of Secrets,"chance. We're stronger, quicker and smarter.",62,relief,1
+Harry Potter and the Chamber of Secrets,"chance. We're stronger, quicker and smarter.",62,neutral,3
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,fun,2
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,worry,8
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,surprise,2
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,sadness,3
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,relief,1
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,neutral,6
+Harry Potter and the Chamber of Secrets,Cornelius Fudge,63,happiness,3
+Harry Potter and the Chamber of Secrets,Aragog,64,hate,1
+Harry Potter and the Chamber of Secrets,Aragog,64,neutral,4
+Harry Potter and the Chamber of Secrets,Aragog,64,sadness,1
+Harry Potter and the Chamber of Secrets,Aragog,64,surprise,1
+Harry Potter and the Chamber of Secrets,Aragog,64,worry,4
+Harry Potter and the Chamber of Secrets,Spider attack,65,empty,1
+Harry Potter and the Chamber of Secrets,Spider attack,65,neutral,2
+Harry Potter and the Chamber of Secrets,Spider attack,65,sadness,1
+Harry Potter and the Chamber of Secrets,Spider attack,65,worry,3
+Harry Potter and the Chamber of Secrets,Missing,66,surprise,2
+Harry Potter and the Chamber of Secrets,Missing,66,enthusiasm,1
+Harry Potter and the Chamber of Secrets,Missing,66,hate,2
+Harry Potter and the Chamber of Secrets,Missing,66,neutral,2
+Harry Potter and the Chamber of Secrets,Missing,66,relief,1
+Harry Potter and the Chamber of Secrets,Missing,66,sadness,5
+Harry Potter and the Chamber of Secrets,Missing,66,worry,6
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,relief,1
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,sadness,2
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,empty,1
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,enthusiasm,1
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,fun,1
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,happiness,1
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,neutral,3
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,worry,8
+Harry Potter and the Chamber of Secrets,Chamber of Secrets,67,surprise,2
+Harry Potter and the Chamber of Secrets,Backfire,68,sadness,2
+Harry Potter and the Chamber of Secrets,Backfire,68,enthusiasm,2
+Harry Potter and the Chamber of Secrets,Backfire,68,worry,2
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,relief,3
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,happiness,2
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,love,1
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,sadness,2
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,neutral,7
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,worry,7
+Harry Potter and the Chamber of Secrets,Heir of Slytherin,69,surprise,2
+Harry Potter and the Chamber of Secrets,The Basilisk,70,neutral,2
+Harry Potter and the Chamber of Secrets,The Basilisk,70,worry,1
+Harry Potter and the Chamber of Secrets,Healing powers,71,worry,1
+Harry Potter and the Chamber of Secrets,Healing powers,71,surprise,1
+Harry Potter and the Chamber of Secrets,Healing powers,71,relief,1
+Harry Potter and the Chamber of Secrets,Healing powers,71,love,1
+Harry Potter and the Chamber of Secrets,Out of the hat,72,worry,1
+Harry Potter and the Chamber of Secrets,Out of the hat,72,surprise,1
+Harry Potter and the Chamber of Secrets,Out of the hat,72,neutral,7
+Harry Potter and the Chamber of Secrets,Out of the hat,72,happiness,2
+Harry Potter and the Chamber of Secrets,Dobby's reward,73,worry,4
+Harry Potter and the Chamber of Secrets,Dobby's reward,73,sadness,1
+Harry Potter and the Chamber of Secrets,Dobby's reward,73,relief,1
+Harry Potter and the Chamber of Secrets,Dobby's reward,73,neutral,13
+Harry Potter and the Chamber of Secrets,Dobby's reward,73,empty,1
+Harry Potter and the Chamber of Secrets,Welcome back,74,neutral,1
+Harry Potter and the Chamber of Secrets,Welcome back,74,happiness,5
+Harry Potter and the Chamber of Secrets,Welcome back,74,love,1
+Harry Potter and the Chamber of Secrets,Welcome back,74,relief,1
+Harry Potter and the Chamber of Secrets,Welcome back,74,sadness,1
+Harry Potter and the Chamber of Secrets,Welcome back,74,worry,3
+Harry Potter and the Prisoner of Azkaban,Under Covers Prologue,75,neutral,1
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,happiness,1
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,sadness,2
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,relief,2
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,neutral,8
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,love,2
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,hate,3
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,worry,4
+Harry Potter and the Prisoner of Azkaban,Aunt Marge's Big Mistake,76,empty,1
+Harry Potter and the Prisoner of Azkaban,The Knight Bus,77,sadness,2
+Harry Potter and the Prisoner of Azkaban,The Knight Bus,77,relief,1
+Harry Potter and the Prisoner of Azkaban,The Knight Bus,77,neutral,7
+Harry Potter and the Prisoner of Azkaban,The Knight Bus,77,hate,1
+Harry Potter and the Prisoner of Azkaban,The Knight Bus,77,happiness,2
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,sadness,1
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,hate,1
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,worry,2
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,surprise,1
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,neutral,4
+Harry Potter and the Prisoner of Azkaban,The Leaky Cauldron,78,relief,1
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,neutral,11
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,happiness,4
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,empty,1
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,surprise,3
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,worry,4
+Harry Potter and the Prisoner of Azkaban,In Grave Danger,79,sadness,1
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,surprise,3
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,happiness,1
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,relief,1
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,sadness,4
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,worry,10
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,fun,1
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,empty,1
+Harry Potter and the Prisoner of Azkaban,The Dementor,80,neutral,3
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,fun,2
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,happiness,1
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,neutral,2
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,relief,1
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,sadness,2
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,surprise,1
+Harry Potter and the Prisoner of Azkaban,Welcome and Warning,81,worry,1
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,surprise,1
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,worry,3
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,love,1
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,neutral,5
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,fun,1
+Harry Potter and the Prisoner of Azkaban,Tea Leaves,82,happiness,1
+Harry Potter and the Prisoner of Azkaban,Buckbeak,83,sadness,1
+Harry Potter and the Prisoner of Azkaban,Buckbeak,83,relief,3
+Harry Potter and the Prisoner of Azkaban,Buckbeak,83,neutral,4
+Harry Potter and the Prisoner of Azkaban,Buckbeak,83,happiness,1
+Harry Potter and the Prisoner of Azkaban,Buckbeak,83,enthusiasm,2
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,enthusiasm,1
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,fun,2
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,neutral,4
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,worry,7
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,surprise,3
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,sadness,2
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,relief,1
+Harry Potter and the Prisoner of Azkaban,Boggart in the Wardrobe,84,happiness,2
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,hate,1
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,fun,2
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,love,1
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,sadness,1
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,surprise,1
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,worry,5
+Harry Potter and the Prisoner of Azkaban,Talent for Trouble,85,empty,2
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,neutral,8
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,hate,1
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,happiness,1
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,surprise,3
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,worry,7
+Harry Potter and the Prisoner of Azkaban,Flight of the Fat Lady,86,sadness,2
+Harry Potter and the Prisoner of Azkaban,Substitute Teacher,87,neutral,7
+Harry Potter and the Prisoner of Azkaban,Substitute Teacher,87,surprise,1
+Harry Potter and the Prisoner of Azkaban,Substitute Teacher,87,sadness,2
+Harry Potter and the Prisoner of Azkaban,Substitute Teacher,87,worry,1
+Harry Potter and the Prisoner of Azkaban,Grim Defeat,88,sadness,4
+Harry Potter and the Prisoner of Azkaban,Grim Defeat,88,fun,1
+Harry Potter and the Prisoner of Azkaban,Grim Defeat,88,love,1
+Harry Potter and the Prisoner of Azkaban,Grim Defeat,88,worry,4
+Harry Potter and the Prisoner of Azkaban,Grim Defeat,88,neutral,5
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,relief,1
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,enthusiasm,1
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,fun,2
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,happiness,3
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,empty,1
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,surprise,1
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,worry,3
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,hate,2
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,sadness,1
+Harry Potter and the Prisoner of Azkaban,The Marauder's Map,89,neutral,7
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,enthusiasm,1
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,fun,2
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,happiness,1
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,hate,1
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,neutral,2
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,sadness,1
+Harry Potter and the Prisoner of Azkaban,Who's There?,90,worry,3
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,neutral,4
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,empty,1
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,fun,3
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,hate,1
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,sadness,1
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,surprise,2
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,worry,9
+Harry Potter and the Prisoner of Azkaban,I Hope He Finds Me,91,love,1
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,fun,3
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,happiness,2
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,hate,1
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,neutral,4
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,relief,3
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,sadness,1
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,surprise,2
+Harry Potter and the Prisoner of Azkaban,The Patronus,92,worry,10
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,happiness,2
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,neutral,10
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,love,1
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,surprise,2
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,sadness,1
+Harry Potter and the Prisoner of Azkaban,Seeing the Impossible,93,worry,7
+Harry Potter and the Prisoner of Azkaban,Professor Trelawney's Prediction,94,empty,1
+Harry Potter and the Prisoner of Azkaban,Professor Trelawney's Prediction,94,relief,2
+Harry Potter and the Prisoner of Azkaban,Professor Trelawney's Prediction,94,sadness,1
+Harry Potter and the Prisoner of Azkaban,Professor Trelawney's Prediction,94,worry,1
+Harry Potter and the Prisoner of Azkaban,Professor Trelawney's Prediction,94,neutral,2
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,empty,1
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,enthusiasm,1
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,fun,2
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,happiness,2
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,love,2
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,neutral,2
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,relief,1
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,surprise,5
+Harry Potter and the Prisoner of Azkaban,Witnesses to an Execution,95,worry,6
+Harry Potter and the Prisoner of Azkaban,The Womping Willow,96,neutral,4
+Harry Potter and the Prisoner of Azkaban,The Womping Willow,96,fun,1
+Harry Potter and the Prisoner of Azkaban,The Womping Willow,96,worry,1
+Harry Potter and the Prisoner of Azkaban,The Womping Willow,96,happiness,2
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,relief,1
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,sadness,1
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,happiness,1
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,worry,6
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,surprise,1
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,fun,1
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,neutral,3
+Harry Potter and the Prisoner of Azkaban,Sirius Black,97,hate,1
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,worry,8
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,surprise,4
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,sadness,2
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,neutral,6
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,love,4
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,fun,2
+Harry Potter and the Prisoner of Azkaban,Peter Pettigrew,98,happiness,1
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,surprise,2
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,relief,2
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,neutral,3
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,love,2
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,happiness,2
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,fun,1
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,sadness,1
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,empty,1
+Harry Potter and the Prisoner of Azkaban,Friends Become Foes,99,worry,6
+Harry Potter and the Prisoner of Azkaban,The Dementor's Kiss,100,fun,1
+Harry Potter and the Prisoner of Azkaban,Hermione's Secret,101,surprise,2
+Harry Potter and the Prisoner of Azkaban,Hermione's Secret,101,worry,4
+Harry Potter and the Prisoner of Azkaban,Hermione's Secret,101,neutral,2
+Harry Potter and the Prisoner of Azkaban,Hermione's Secret,101,sadness,1
+Harry Potter and the Prisoner of Azkaban,Onlookers to the Rescue,102,neutral,2
+Harry Potter and the Prisoner of Azkaban,Onlookers to the Rescue,102,relief,2
+Harry Potter and the Prisoner of Azkaban,Onlookers to the Rescue,102,worry,3
+Harry Potter and the Prisoner of Azkaban,Onlookers to the Rescue,102,empty,1
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,worry,10
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,enthusiasm,1
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,empty,1
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,neutral,5
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,sadness,2
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,love,1
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,fun,7
+Harry Potter and the Prisoner of Azkaban,Saving Lives,103,surprise,4
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,hate,1
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,worry,5
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,sadness,1
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,relief,4
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,neutral,4
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,love,1
+Harry Potter and the Prisoner of Azkaban,"Truly Seen, Truly Free",104,happiness,1
+Harry Potter and the Prisoner of Azkaban,Mischief Managed,105,fun,1
+Harry Potter and the Prisoner of Azkaban,Mischief Managed,105,worry,2
+Harry Potter and the Prisoner of Azkaban,Mischief Managed,105,surprise,1
+Harry Potter and the Prisoner of Azkaban,Mischief Managed,105,relief,2
+Harry Potter and the Prisoner of Azkaban,Mischief Managed,105,neutral,1
+Harry Potter and the Prisoner of Azkaban,The Firebolt,106,fun,1
+Harry Potter and the Prisoner of Azkaban,The Firebolt,106,surprise,1
+Harry Potter and the Prisoner of Azkaban,The Firebolt,106,happiness,1
+Harry Potter and the Prisoner of Azkaban,The Firebolt,106,neutral,2
+Harry Potter and the Gobelt of Fire,The Riddle House,107,worry,1
+Harry Potter and the Gobelt of Fire,The Riddle House,107,sadness,1
+Harry Potter and the Gobelt of Fire,The Riddle House,107,relief,1
+Harry Potter and the Gobelt of Fire,The Riddle House,107,neutral,1
+Harry Potter and the Gobelt of Fire,The Riddle House,107,happiness,1
+Harry Potter and the Gobelt of Fire,The Portkey,108,happiness,3
+Harry Potter and the Gobelt of Fire,The Portkey,108,love,1
+Harry Potter and the Gobelt of Fire,The Portkey,108,empty,1
+Harry Potter and the Gobelt of Fire,The Portkey,108,worry,8
+Harry Potter and the Gobelt of Fire,The Portkey,108,relief,1
+Harry Potter and the Gobelt of Fire,The Portkey,108,neutral,7
+Harry Potter and the Gobelt of Fire,The Quidditch World Cup,109,worry,3
+Harry Potter and the Gobelt of Fire,The Quidditch World Cup,109,neutral,2
+Harry Potter and the Gobelt of Fire,The Quidditch World Cup,109,happiness,1
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,surprise,2
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,empty,1
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,fun,1
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,worry,3
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,happiness,2
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,love,7
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,sadness,1
+Harry Potter and the Gobelt of Fire,The Dark Mark,110,neutral,7
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,relief,2
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,neutral,6
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,hate,1
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,worry,2
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,fun,2
+Harry Potter and the Gobelt of Fire,The Triwizard Tournament,111,happiness,4
+Harry Potter and the Gobelt of Fire,The Goblet of Fire,112,neutral,1
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,neutral,9
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,sadness,2
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,enthusiasm,1
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,fun,1
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,happiness,2
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,hate,1
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,surprise,2
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,worry,3
+Harry Potter and the Gobelt of Fire,The Unforgivable Curses,113,relief,3
+Harry Potter and the Gobelt of Fire,The Four Champions,114,hate,1
+Harry Potter and the Gobelt of Fire,The Four Champions,114,happiness,1
+Harry Potter and the Gobelt of Fire,The Four Champions,114,neutral,6
+Harry Potter and the Gobelt of Fire,The Four Champions,114,worry,8
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,happiness,1
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,hate,2
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,neutral,4
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,relief,1
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,sadness,2
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,surprise,1
+Harry Potter and the Gobelt of Fire,Let Events Unfold,115,worry,2
+Harry Potter and the Gobelt of Fire,Rita Skeeter,116,relief,1
+Harry Potter and the Gobelt of Fire,Rita Skeeter,116,worry,2
+Harry Potter and the Gobelt of Fire,Rita Skeeter,116,love,2
+Harry Potter and the Gobelt of Fire,Rita Skeeter,116,neutral,3
+Harry Potter and the Gobelt of Fire,Rita Skeeter,116,surprise,2
+Harry Potter and the Gobelt of Fire,Sirius Conversation,117,relief,2
+Harry Potter and the Gobelt of Fire,Sirius Conversation,117,sadness,2
+Harry Potter and the Gobelt of Fire,Sirius Conversation,117,surprise,2
+Harry Potter and the Gobelt of Fire,Sirius Conversation,117,worry,4
+Harry Potter and the Gobelt of Fire,Sirius Conversation,117,neutral,4
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,worry,7
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,empty,1
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,fun,1
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,neutral,6
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,surprise,3
+Harry Potter and the Gobelt of Fire,The Hungarian Horntail,118,relief,2
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,sadness,2
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,worry,2
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,surprise,4
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,neutral,4
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,fun,3
+Harry Potter and the Gobelt of Fire,Transforming Malfoy,119,happiness,1
+Harry Potter and the Gobelt of Fire,The First Task,120,enthusiasm,3
+Harry Potter and the Gobelt of Fire,The First Task,120,happiness,2
+Harry Potter and the Gobelt of Fire,The First Task,120,love,1
+Harry Potter and the Gobelt of Fire,The First Task,120,neutral,9
+Harry Potter and the Gobelt of Fire,The First Task,120,relief,2
+Harry Potter and the Gobelt of Fire,The First Task,120,worry,7
+Harry Potter and the Gobelt of Fire,The First Task,120,surprise,2
+Harry Potter and the Gobelt of Fire,The First Task,120,sadness,3
+Harry Potter and the Gobelt of Fire,Best Foot Forward,121,happiness,1
+Harry Potter and the Gobelt of Fire,Best Foot Forward,121,sadness,2
+Harry Potter and the Gobelt of Fire,Best Foot Forward,121,neutral,5
+Harry Potter and the Gobelt of Fire,Best Foot Forward,121,worry,2
+Harry Potter and the Gobelt of Fire,Best Foot Forward,121,love,1
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,empty,1
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,fun,1
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,neutral,4
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,relief,2
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,sadness,2
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,surprise,1
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,worry,9
+Harry Potter and the Gobelt of Fire,An Unexpected Challenge,122,happiness,1
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,fun,2
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,happiness,4
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,neutral,7
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,sadness,3
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,surprise,2
+Harry Potter and the Gobelt of Fire,The Yule Ball,123,worry,10
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,love,1
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,fun,3
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,happiness,1
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,hate,1
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,neutral,13
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,worry,4
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,sadness,2
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,surprise,3
+Harry Potter and the Gobelt of Fire,The Egg's Clue,124,relief,1
+Harry Potter and the Gobelt of Fire,The Second Task,125,worry,5
+Harry Potter and the Gobelt of Fire,The Second Task,125,sadness,1
+Harry Potter and the Gobelt of Fire,The Second Task,125,relief,4
+Harry Potter and the Gobelt of Fire,The Second Task,125,fun,1
+Harry Potter and the Gobelt of Fire,The Second Task,125,enthusiasm,1
+Harry Potter and the Gobelt of Fire,The Second Task,125,surprise,1
+Harry Potter and the Gobelt of Fire,The Second Task,125,neutral,4
+Harry Potter and the Gobelt of Fire,Never Whole Again,126,happiness,2
+Harry Potter and the Gobelt of Fire,Never Whole Again,126,relief,1
+Harry Potter and the Gobelt of Fire,Never Whole Again,126,surprise,1
+Harry Potter and the Gobelt of Fire,The Pensieve,127,worry,7
+Harry Potter and the Gobelt of Fire,The Pensieve,127,surprise,1
+Harry Potter and the Gobelt of Fire,The Pensieve,127,fun,1
+Harry Potter and the Gobelt of Fire,The Pensieve,127,happiness,1
+Harry Potter and the Gobelt of Fire,The Pensieve,127,neutral,11
+Harry Potter and the Gobelt of Fire,The Pensieve,127,empty,1
+Harry Potter and the Gobelt of Fire,Dreams and Suspicions,128,happiness,1
+Harry Potter and the Gobelt of Fire,Dreams and Suspicions,128,surprise,3
+Harry Potter and the Gobelt of Fire,Dreams and Suspicions,128,love,2
+Harry Potter and the Gobelt of Fire,Dreams and Suspicions,128,neutral,2
+Harry Potter and the Gobelt of Fire,Dreams and Suspicions,128,worry,4
+Harry Potter and the Gobelt of Fire,The Third Task,129,hate,1
+Harry Potter and the Gobelt of Fire,The Third Task,129,neutral,5
+Harry Potter and the Gobelt of Fire,The Third Task,129,surprise,1
+Harry Potter and the Gobelt of Fire,The Third Task,129,worry,1
+Harry Potter and the Gobelt of Fire,"Flesh, Blood and Bone",130,fun,1
+Harry Potter and the Gobelt of Fire,"Flesh, Blood and Bone",130,neutral,4
+Harry Potter and the Gobelt of Fire,"Flesh, Blood and Bone",130,worry,1
+Harry Potter and the Gobelt of Fire,"Flesh, Blood and Bone",130,happiness,2
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,worry,5
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,surprise,1
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,neutral,2
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,love,1
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,hate,1
+Harry Potter and the Gobelt of Fire,The Death Eaters,131,happiness,1
+Harry Potter and the Gobelt of Fire,Priori Incantatem,132,neutral,1
+Harry Potter and the Gobelt of Fire,Priori Incantatem,132,enthusiasm,1
+Harry Potter and the Gobelt of Fire,Priori Incantatem,132,love,1
+Harry Potter and the Gobelt of Fire,Priori Incantatem,132,worry,4
+Harry Potter and the Gobelt of Fire,Veritaserum,133,sadness,2
+Harry Potter and the Gobelt of Fire,Veritaserum,133,fun,2
+Harry Potter and the Gobelt of Fire,Veritaserum,133,neutral,7
+Harry Potter and the Gobelt of Fire,Veritaserum,133,relief,2
+Harry Potter and the Gobelt of Fire,Veritaserum,133,worry,4
+Harry Potter and the Gobelt of Fire,Parting Ways,134,worry,5
+Harry Potter and the Gobelt of Fire,Parting Ways,134,surprise,1
+Harry Potter and the Gobelt of Fire,Parting Ways,134,neutral,1
+Harry Potter and the Gobelt of Fire,Parting Ways,134,happiness,1
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,neutral,5
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,sadness,2
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,worry,3
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,hate,1
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,fun,2
+Harry Potter and the Order of the Phoenix,Dudley Demented,135,happiness,1
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,worry,4
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,neutral,7
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,hate,3
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,happiness,2
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,enthusiasm,1
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,relief,1
+Harry Potter and the Order of the Phoenix,The Advance Guard,136,surprise,1
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,love,1
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,surprise,1
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,worry,2
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,enthusiasm,2
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,neutral,3
+Harry Potter and the Order of the Phoenix,"Number Twelve, Grimmauld Place",137,sadness,1
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,sadness,3
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,surprise,7
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,worry,13
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,hate,1
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,relief,1
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,happiness,4
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,enthusiasm,1
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,neutral,9
+Harry Potter and the Order of the Phoenix,The Order of the Phoenix,138,love,4
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,happiness,3
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,worry,2
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,relief,1
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,neutral,5
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,sadness,1
+Harry Potter and the Order of the Phoenix,The Ministry of Magic,139,love,2
+Harry Potter and the Order of the Phoenix,The Hearing,140,worry,5
+Harry Potter and the Order of the Phoenix,The Hearing,140,surprise,1
+Harry Potter and the Order of the Phoenix,The Hearing,140,sadness,1
+Harry Potter and the Order of the Phoenix,The Hearing,140,relief,1
+Harry Potter and the Order of the Phoenix,The Hearing,140,neutral,10
+Harry Potter and the Order of the Phoenix,The Hearing,140,happiness,4
+Harry Potter and the Order of the Phoenix,The Hearing,140,empty,1
+Harry Potter and the Order of the Phoenix,The Hearing,140,fun,1
+Harry Potter and the Order of the Phoenix,The Originals,141,fun,1
+Harry Potter and the Order of the Phoenix,The Originals,141,worry,4
+Harry Potter and the Order of the Phoenix,The Originals,141,surprise,2
+Harry Potter and the Order of the Phoenix,The Originals,141,sadness,4
+Harry Potter and the Order of the Phoenix,The Originals,141,happiness,1
+Harry Potter and the Order of the Phoenix,The Originals,141,neutral,7
+Harry Potter and the Order of the Phoenix,The Originals,141,love,1
+Harry Potter and the Order of the Phoenix,The Originals,141,relief,1
+Harry Potter and the Order of the Phoenix,Luna Lovegood,142,happiness,2
+Harry Potter and the Order of the Phoenix,Luna Lovegood,142,neutral,2
+Harry Potter and the Order of the Phoenix,Luna Lovegood,142,surprise,1
+Harry Potter and the Order of the Phoenix,Luna Lovegood,142,worry,2
+Harry Potter and the Order of the Phoenix,Luna Lovegood,142,fun,1
+Harry Potter and the Order of the Phoenix,"Preserve, Perfect and Prune",143,neutral,9
+Harry Potter and the Order of the Phoenix,"Preserve, Perfect and Prune",143,surprise,1
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,enthusiasm,1
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,happiness,2
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,hate,1
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,neutral,10
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,relief,2
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,sadness,3
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,surprise,3
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,empty,1
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,love,1
+Harry Potter and the Order of the Phoenix,Professor Umbridge's Class,144,worry,3
+Harry Potter and the Order of the Phoenix,Detention With Dolores,145,enthusiasm,1
+Harry Potter and the Order of the Phoenix,Detention With Dolores,145,neutral,7
+Harry Potter and the Order of the Phoenix,Detention With Dolores,145,worry,10
+Harry Potter and the Order of the Phoenix,Detention With Dolores,145,relief,1
+Harry Potter and the Order of the Phoenix,Detention With Dolores,145,sadness,2
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,happiness,1
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,fun,1
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,sadness,1
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,surprise,2
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,worry,4
+Harry Potter and the Order of the Phoenix,The Hogwarts High Inquisitor,146,neutral,3
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,surprise,6
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,happiness,2
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,neutral,12
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,relief,3
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,sadness,1
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,worry,15
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,enthusiasm,2
+Harry Potter and the Order of the Phoenix,In the Hog's Head,147,empty,1
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,surprise,2
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,sadness,7
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,neutral,9
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,worry,7
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,hate,2
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,happiness,2
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,fun,3
+Harry Potter and the Order of the Phoenix,Dumbledore's Army,148,love,2
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,enthusiasm,1
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,worry,6
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,sadness,2
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,relief,1
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,neutral,5
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,happiness,2
+Harry Potter and the Order of the Phoenix,Hagrid's Tale,149,fun,1
+Harry Potter and the Order of the Phoenix,Occlumency,150,surprise,3
+Harry Potter and the Order of the Phoenix,Occlumency,150,sadness,2
+Harry Potter and the Order of the Phoenix,Occlumency,150,neutral,14
+Harry Potter and the Order of the Phoenix,Occlumency,150,worry,10
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,surprise,1
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,empty,1
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,enthusiasm,1
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,fun,2
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,happiness,4
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,hate,1
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,neutral,18
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,relief,3
+Harry Potter and the Order of the Phoenix,Unquiet Escape,151,worry,9
+Harry Potter and the Order of the Phoenix,Grawp,152,sadness,5
+Harry Potter and the Order of the Phoenix,Grawp,152,fun,1
+Harry Potter and the Order of the Phoenix,Grawp,152,happiness,3
+Harry Potter and the Order of the Phoenix,Grawp,152,relief,2
+Harry Potter and the Order of the Phoenix,Grawp,152,worry,5
+Harry Potter and the Order of the Phoenix,Grawp,152,surprise,1
+Harry Potter and the Order of the Phoenix,Grawp,152,neutral,6
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,empty,1
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,enthusiasm,1
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,happiness,2
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,hate,1
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,worry,6
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,sadness,4
+Harry Potter and the Order of the Phoenix,Snape's Worst Memory,153,neutral,5
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,happiness,4
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,neutral,11
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,relief,3
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,surprise,2
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,worry,11
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,fun,1
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,sadness,6
+Harry Potter and the Order of the Phoenix,Out of the Fire,154,empty,1
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,worry,7
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,sadness,2
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,relief,1
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,neutral,10
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,surprise,1
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,happiness,3
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,enthusiasm,3
+Harry Potter and the Order of the Phoenix,Fight and Flight,155,hate,1
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,hate,1
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,empty,1
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,happiness,1
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,neutral,11
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,relief,1
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,sadness,4
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,surprise,3
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,worry,13
+Harry Potter and the Order of the Phoenix,The Department of Mysteries,156,fun,1
+Harry Potter and the Order of the Phoenix,Beyond the Veil,157,worry,1
+Harry Potter and the Order of the Phoenix,Beyond the Veil,157,sadness,1
+Harry Potter and the Order of the Phoenix,Beyond the Veil,157,happiness,2
+Harry Potter and the Order of the Phoenix,Beyond the Veil,157,neutral,1
+Harry Potter and the Order of the Phoenix,Side by Side,158,sadness,2
+Harry Potter and the Order of the Phoenix,Side by Side,158,neutral,2
+Harry Potter and the Order of the Phoenix,Side by Side,158,worry,3
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,hate,1
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,fun,1
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,neutral,3
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,relief,1
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,sadness,2
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,surprise,2
+Harry Potter and the Order of the Phoenix,Wizards Duel,159,worry,7
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,relief,3
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,sadness,7
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,neutral,15
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,enthusiasm,4
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,hate,4
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,happiness,4
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,surprise,6
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,worry,23
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,empty,1
+Harry Potter and the Order of the Phoenix,The Lost Prophecy,160,fun,2
+Harry Potter and the Order of the Phoenix,A way of coming back,161,worry,2
+Harry Potter and the Order of the Phoenix,A way of coming back,161,fun,1
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,sadness,1
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,worry,12
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,empty,2
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,love,2
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,neutral,2
+Harry Potter and the Half-Blood Prince,Snape's Visitors,162,happiness,1
+Harry Potter and the Half-Blood Prince,Who's Harry Potter?,163,worry,1
+Harry Potter and the Half-Blood Prince,Who's Harry Potter?,163,neutral,1
+Harry Potter and the Half-Blood Prince,Who's Harry Potter?,163,surprise,1
+Harry Potter and the Half-Blood Prince,Who's Harry Potter?,163,fun,1
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,fun,3
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,worry,9
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,love,4
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,neutral,10
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,sadness,5
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,surprise,2
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,happiness,1
+Harry Potter and the Half-Blood Prince,Horace Slughorn,164,hate,1
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,surprise,3
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,worry,15
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,relief,1
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,love,1
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,neutral,18
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,sadness,3
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,happiness,2
+Harry Potter and the Half-Blood Prince,What Could Be Safer?,165,enthusiasm,1
+Harry Potter and the Half-Blood Prince,That's For My Father,166,worry,6
+Harry Potter and the Half-Blood Prince,That's For My Father,166,sadness,2
+Harry Potter and the Half-Blood Prince,That's For My Father,166,relief,2
+Harry Potter and the Half-Blood Prince,That's For My Father,166,neutral,5
+Harry Potter and the Half-Blood Prince,That's For My Father,166,hate,1
+Harry Potter and the Half-Blood Prince,That's For My Father,166,empty,1
+Harry Potter and the Half-Blood Prince,That's For My Father,166,enthusiasm,1
+Harry Potter and the Half-Blood Prince,That's For My Father,166,happiness,3
+Harry Potter and the Half-Blood Prince,Dark Forces,167,neutral,2
+Harry Potter and the Half-Blood Prince,Dark Forces,167,happiness,3
+Harry Potter and the Half-Blood Prince,Dark Forces,167,empty,1
+Harry Potter and the Half-Blood Prince,Dark Forces,167,hate,1
+Harry Potter and the Half-Blood Prince,Dark Forces,167,relief,1
+Harry Potter and the Half-Blood Prince,Dark Forces,167,sadness,2
+Harry Potter and the Half-Blood Prince,Dark Forces,167,surprise,5
+Harry Potter and the Half-Blood Prince,Dark Forces,167,love,2
+Harry Potter and the Half-Blood Prince,Dark Forces,167,worry,4
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,worry,3
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,happiness,1
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,love,3
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,neutral,9
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,relief,2
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,sadness,3
+Harry Potter and the Half-Blood Prince,The Half Blood Prince,168,surprise,1
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,neutral,6
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,worry,9
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,fun,1
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,happiness,5
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,love,1
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,surprise,6
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,sadness,2
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,relief,1
+Harry Potter and the Half-Blood Prince,The Secret Riddle,169,hate,2
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,hate,1
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,love,1
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,surprise,3
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,relief,2
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,neutral,8
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,enthusiasm,1
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,fun,2
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,happiness,1
+Harry Potter and the Half-Blood Prince,Hermione's Helping Hand,170,worry,5
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,fun,1
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,worry,14
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,surprise,3
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,sadness,3
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,relief,2
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,neutral,17
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,hate,1
+Harry Potter and the Half-Blood Prince,Cursed Necklace,171,happiness,3
+Harry Potter and the Half-Blood Prince,Slug Club,172,fun,2
+Harry Potter and the Half-Blood Prince,Slug Club,172,happiness,2
+Harry Potter and the Half-Blood Prince,Slug Club,172,relief,2
+Harry Potter and the Half-Blood Prince,Slug Club,172,worry,8
+Harry Potter and the Half-Blood Prince,Slug Club,172,love,1
+Harry Potter and the Half-Blood Prince,Slug Club,172,neutral,4
+Harry Potter and the Half-Blood Prince,Slug Club,172,sadness,5
+Harry Potter and the Half-Blood Prince,Slug Club,172,surprise,2
+Harry Potter and the Half-Blood Prince,Felix Felicis,173,surprise,2
+Harry Potter and the Half-Blood Prince,Felix Felicis,173,neutral,11
+Harry Potter and the Half-Blood Prince,Felix Felicis,173,happiness,4
+Harry Potter and the Half-Blood Prince,Felix Felicis,173,worry,1
+Harry Potter and the Half-Blood Prince,How It Feels,174,worry,2
+Harry Potter and the Half-Blood Prince,How It Feels,174,surprise,1
+Harry Potter and the Half-Blood Prince,How It Feels,174,happiness,1
+Harry Potter and the Half-Blood Prince,How It Feels,174,love,2
+Harry Potter and the Half-Blood Prince,How It Feels,174,neutral,2
+Harry Potter and the Half-Blood Prince,How It Feels,174,relief,1
+Harry Potter and the Half-Blood Prince,How It Feels,174,fun,1
+Harry Potter and the Half-Blood Prince,Free Agents,175,empty,1
+Harry Potter and the Half-Blood Prince,Free Agents,175,sadness,3
+Harry Potter and the Half-Blood Prince,Free Agents,175,happiness,3
+Harry Potter and the Half-Blood Prince,Free Agents,175,neutral,3
+Harry Potter and the Half-Blood Prince,Free Agents,175,relief,3
+Harry Potter and the Half-Blood Prince,Free Agents,175,surprise,2
+Harry Potter and the Half-Blood Prince,Free Agents,175,worry,6
+Harry Potter and the Half-Blood Prince,Free Agents,175,fun,1
+Harry Potter and the Half-Blood Prince,The Unbreakable Vow,176,sadness,2
+Harry Potter and the Half-Blood Prince,The Unbreakable Vow,176,fun,1
+Harry Potter and the Half-Blood Prince,The Unbreakable Vow,176,neutral,1
+Harry Potter and the Half-Blood Prince,The Unbreakable Vow,176,worry,1
+Harry Potter and the Half-Blood Prince,The Unbreakable Vow,176,relief,1
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,enthusiasm,1
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,fun,2
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,happiness,2
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,hate,3
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,love,1
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,neutral,11
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,sadness,1
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,surprise,2
+Harry Potter and the Half-Blood Prince,Death Eaters Attack,177,worry,8
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,neutral,3
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,worry,3
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,relief,1
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,surprise,4
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,sadness,2
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,empty,1
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,fun,1
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,happiness,1
+Harry Potter and the Half-Blood Prince,Sluggish Memory,178,love,1
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,relief,1
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,empty,1
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,enthusiasm,1
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,sadness,8
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,surprise,1
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,neutral,20
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,happiness,3
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,love,4
+Harry Potter and the Half-Blood Prince,Perilous Potions,179,worry,16
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,hate,2
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,empty,1
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,happiness,1
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,worry,2
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,sadness,2
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,neutral,2
+Harry Potter and the Half-Blood Prince,Sectumsempra,180,love,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,relief,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,love,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,neutral,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,sadness,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,surprise,1
+Harry Potter and the Half-Blood Prince,Hiding the Book,181,worry,1
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,sadness,1
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,empty,1
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,fun,2
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,happiness,2
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,love,1
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,neutral,16
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,relief,1
+Harry Potter and the Half-Blood Prince,Liquid Luck,182,worry,8
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,relief,1
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,neutral,3
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,love,2
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,happiness,1
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,sadness,1
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,surprise,2
+Harry Potter and the Half-Blood Prince,After Aragog's Burial,183,worry,8
+Harry Potter and the Half-Blood Prince,Horcruxes,184,love,1
+Harry Potter and the Half-Blood Prince,Horcruxes,184,happiness,2
+Harry Potter and the Half-Blood Prince,Horcruxes,184,fun,1
+Harry Potter and the Half-Blood Prince,Horcruxes,184,enthusiasm,1
+Harry Potter and the Half-Blood Prince,Horcruxes,184,empty,3
+Harry Potter and the Half-Blood Prince,Horcruxes,184,worry,22
+Harry Potter and the Half-Blood Prince,Horcruxes,184,hate,3
+Harry Potter and the Half-Blood Prince,Horcruxes,184,surprise,9
+Harry Potter and the Half-Blood Prince,Horcruxes,184,sadness,7
+Harry Potter and the Half-Blood Prince,Horcruxes,184,relief,1
+Harry Potter and the Half-Blood Prince,Horcruxes,184,neutral,24
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,love,2
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,neutral,4
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,happiness,4
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,sadness,1
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,surprise,1
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,worry,10
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,fun,3
+Harry Potter and the Half-Blood Prince,The Astronomy Tower,185,relief,2
+Harry Potter and the Half-Blood Prince,Flight of the Prince,186,fun,1
+Harry Potter and the Half-Blood Prince,Flight of the Prince,186,worry,2
+Harry Potter and the Half-Blood Prince,Flight of the Prince,186,neutral,5
+Harry Potter and the Half-Blood Prince,Flight of the Prince,186,hate,1
+Harry Potter and the Half-Blood Prince,R.a.B.,187,surprise,2
+Harry Potter and the Half-Blood Prince,R.a.B.,187,sadness,1
+Harry Potter and the Half-Blood Prince,R.a.B.,187,neutral,4
+Harry Potter and the Half-Blood Prince,R.a.B.,187,happiness,3
+Harry Potter and the Half-Blood Prince,R.a.B.,187,empty,1
+Harry Potter and the Half-Blood Prince,R.a.B.,187,worry,8
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,worry,1
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,relief,1
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,neutral,2
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,love,3
+Harry Potter and the Deathly Hallows Part 1,Dark Times,188,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,sadness,2
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,neutral,8
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,relief,2
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,worry,4
+Harry Potter and the Deathly Hallows Part 1,Dark Lord Ascending,189,love,3
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,love,1
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,hate,1
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,happiness,1
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,fun,3
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,surprise,2
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,neutral,17
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,relief,1
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,enthusiasm,2
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,sadness,3
+Harry Potter and the Deathly Hallows Part 1,The Seven Potters,190,worry,14
+Harry Potter and the Deathly Hallows Part 1,Aerial Ambush,191,fun,1
+Harry Potter and the Deathly Hallows Part 1,Aerial Ambush,191,worry,3
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,worry,15
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,surprise,2
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,sadness,4
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,relief,4
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,love,3
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,hate,1
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,neutral,5
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,fun,1
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,Fallen Warrior,192,happiness,3
+Harry Potter and the Deathly Hallows Part 1,Dumbledore's Will,193,worry,8
+Harry Potter and the Deathly Hallows Part 1,Dumbledore's Will,193,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Dumbledore's Will,193,sadness,7
+Harry Potter and the Deathly Hallows Part 1,Dumbledore's Will,193,neutral,12
+Harry Potter and the Deathly Hallows Part 1,Dumbledore's Will,193,fun,1
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,neutral,6
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,relief,2
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,sadness,4
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,surprise,9
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,worry,6
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,happiness,5
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,empty,1
+Harry Potter and the Deathly Hallows Part 1,The Wedding,194,love,2
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,worry,8
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,surprise,5
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,sadness,5
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,neutral,9
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,love,1
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,hate,2
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,happiness,3
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,fun,1
+Harry Potter and the Deathly Hallows Part 1,Place to Hide,195,empty,1
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,worry,7
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,relief,1
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,neutral,3
+Harry Potter and the Deathly Hallows Part 1,Kreacher's Tale,196,empty,1
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,fun,1
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,happiness,2
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,worry,2
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,surprise,2
+Harry Potter and the Deathly Hallows Part 1,Theft of a Thief,197,neutral,6
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,sadness,4
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,neutral,20
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,worry,12
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,hate,1
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,happiness,5
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,fun,1
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,enthusiasm,4
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,surprise,8
+Harry Potter and the Deathly Hallows Part 1,Ministry Interior,198,relief,1
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,worry,13
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,surprise,5
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,relief,2
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,neutral,8
+Harry Potter and the Deathly Hallows Part 1,Forest Fugitives,199,enthusiasm,2
+Harry Potter and the Deathly Hallows Part 1,Getting Too Close,200,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Getting Too Close,200,neutral,1
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,enthusiasm,2
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,fun,1
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,hate,2
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,relief,1
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,surprise,5
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,worry,9
+Harry Potter and the Deathly Hallows Part 1,Broken Ranks,201,neutral,8
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,hate,1
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,empty,1
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,fun,1
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,neutral,4
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,worry,5
+Harry Potter and the Deathly Hallows Part 1,Clues Revealed,202,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,fun,1
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,happiness,2
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,worry,5
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,sadness,2
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,relief,1
+Harry Potter and the Deathly Hallows Part 1,Godric's Hollow,203,neutral,3
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,happiness,4
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,love,1
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,worry,6
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,surprise,3
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,neutral,8
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,sadness,3
+Harry Potter and the Deathly Hallows Part 1,Bathilda's Secret,204,relief,2
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,fun,2
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,worry,8
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,relief,3
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,sadness,4
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,love,2
+Harry Potter and the Deathly Hallows Part 1,Sword of Gryffindor,205,neutral,8
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,empty,2
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,worry,7
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,sadness,1
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,relief,2
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,fun,1
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,neutral,7
+Harry Potter and the Deathly Hallows Part 1,Lighting the Way Back,206,hate,1
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,relief,3
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,happiness,1
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,sadness,2
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,neutral,12
+Harry Potter and the Deathly Hallows Part 1,The Three Brothers,207,worry,7
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,worry,4
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,surprise,3
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,sadness,4
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,neutral,7
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,relief,1
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,hate,1
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,happiness,1
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,love,1
+Harry Potter and the Deathly Hallows Part 1,The Deathly Hallows,208,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,hate,2
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,empty,1
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,love,2
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,worry,2
+Harry Potter and the Deathly Hallows Part 1,Snatchers Strike,209,neutral,6
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,love,1
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,hate,1
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,neutral,1
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,sadness,5
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,happiness,1
+Harry Potter and the Deathly Hallows Part 1,Malfoy Manor,210,worry,7
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,hate,1
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,neutral,7
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,surprise,1
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,worry,4
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,relief,1
+Harry Potter and the Deathly Hallows Part 1,Dobby has No Master,211,happiness,2
+Harry Potter and the Deathly Hallows Part 1,Sleeping Friend,212,worry,3
+Harry Potter and the Deathly Hallows Part 1,Sleeping Friend,212,love,1
+Harry Potter and the Deathly Hallows Part 1,Sleeping Friend,212,relief,1
+Harry Potter and the Deathly Hallows Part 2,Shell Cottage,213,worry,2
+Harry Potter and the Deathly Hallows Part 2,Shell Cottage,213,relief,1
+Harry Potter and the Deathly Hallows Part 2,Griphook's Price,214,worry,8
+Harry Potter and the Deathly Hallows Part 2,Griphook's Price,214,surprise,2
+Harry Potter and the Deathly Hallows Part 2,Griphook's Price,214,neutral,3
+Harry Potter and the Deathly Hallows Part 2,Griphook's Price,214,hate,1
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,sadness,4
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,worry,11
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,neutral,10
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,hate,1
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,happiness,1
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,fun,1
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,empty,1
+Harry Potter and the Deathly Hallows Part 2,He's After You,215,surprise,5
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,happiness,2
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,neutral,6
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,sadness,3
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,surprise,3
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,worry,9
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,hate,1
+Harry Potter and the Deathly Hallows Part 2,Gringotts,216,relief,2
+Harry Potter and the Deathly Hallows Part 2,Copping the Cup,217,neutral,1
+Harry Potter and the Deathly Hallows Part 2,Copping the Cup,217,worry,4
+Harry Potter and the Deathly Hallows Part 2,Exit the Dragon,218,relief,1
+Harry Potter and the Deathly Hallows Part 2,Exit the Dragon,218,sadness,2
+Harry Potter and the Deathly Hallows Part 2,Exit the Dragon,218,fun,1
+Harry Potter and the Deathly Hallows Part 2,Exit the Dragon,218,hate,1
+Harry Potter and the Deathly Hallows Part 2,Exit the Dragon,218,worry,8
+Harry Potter and the Deathly Hallows Part 2,Final Hiding Place,219,worry,4
+Harry Potter and the Deathly Hallows Part 2,Final Hiding Place,219,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Final Hiding Place,219,neutral,1
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,love,1
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,neutral,2
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,sadness,3
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,worry,11
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,relief,2
+Harry Potter and the Deathly Hallows Part 2,Aberforth Dumbledore,220,surprise,4
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,hate,1
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,neutral,7
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,sadness,4
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,surprise,2
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,fun,1
+Harry Potter and the Deathly Hallows Part 2,Hogwarts Reunion,221,worry,11
+Harry Potter and the Deathly Hallows Part 2,Give Me Harry Potter,222,worry,4
+Harry Potter and the Deathly Hallows Part 2,Give Me Harry Potter,222,surprise,1
+Harry Potter and the Deathly Hallows Part 2,Give Me Harry Potter,222,love,1
+Harry Potter and the Deathly Hallows Part 2,Give Me Harry Potter,222,neutral,6
+Harry Potter and the Deathly Hallows Part 2,Give Me Harry Potter,222,relief,1
+Harry Potter and the Deathly Hallows Part 2,Duty To Our School,223,worry,5
+Harry Potter and the Deathly Hallows Part 2,Duty To Our School,223,neutral,1
+Harry Potter and the Deathly Hallows Part 2,Duty To Our School,223,love,1
+Harry Potter and the Deathly Hallows Part 2,Duty To Our School,223,happiness,1
+Harry Potter and the Deathly Hallows Part 2,You Need Only Ask,224,sadness,1
+Harry Potter and the Deathly Hallows Part 2,You Need Only Ask,224,neutral,3
+Harry Potter and the Deathly Hallows Part 2,You Need Only Ask,224,happiness,1
+Harry Potter and the Deathly Hallows Part 2,You Need Only Ask,224,worry,1
+Harry Potter and the Deathly Hallows Part 2,Blow For Blow,225,worry,4
+Harry Potter and the Deathly Hallows Part 2,Blow For Blow,225,sadness,1
+Harry Potter and the Deathly Hallows Part 2,Blow For Blow,225,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Blow For Blow,225,neutral,4
+Harry Potter and the Deathly Hallows Part 2,Blow For Blow,225,relief,1
+Harry Potter and the Deathly Hallows Part 2,Finding the Diadem,226,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 2,Finding the Diadem,226,worry,6
+Harry Potter and the Deathly Hallows Part 2,Finding the Diadem,226,surprise,2
+Harry Potter and the Deathly Hallows Part 2,Finding the Diadem,226,neutral,5
+Harry Potter and the Deathly Hallows Part 2,Finding the Diadem,226,hate,1
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,happiness,2
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,neutral,3
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,hate,2
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,relief,2
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,fun,2
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,sadness,1
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,surprise,2
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,worry,6
+Harry Potter and the Deathly Hallows Part 2,Fiendfyre,227,enthusiasm,2
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,fun,2
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,happiness,1
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,neutral,4
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,sadness,2
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,worry,3
+Harry Potter and the Deathly Hallows Part 2,He Will Come To Me,228,empty,1
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,love,1
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,worry,9
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,surprise,5
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,sadness,4
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,neutral,12
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,happiness,2
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,fun,1
+Harry Potter and the Deathly Hallows Part 2,Your Mother's Eyes,229,empty,1
+Harry Potter and the Deathly Hallows Part 2,Confront Your Fate,230,empty,1
+Harry Potter and the Deathly Hallows Part 2,Confront Your Fate,230,worry,3
+Harry Potter and the Deathly Hallows Part 2,Confront Your Fate,230,relief,1
+Harry Potter and the Deathly Hallows Part 2,Confront Your Fate,230,neutral,1
+Harry Potter and the Deathly Hallows Part 2,Confront Your Fate,230,hate,2
+Harry Potter and the Deathly Hallows Part 2,I Open At the Close,231,worry,2
+Harry Potter and the Deathly Hallows Part 2,I Open At the Close,231,surprise,1
+Harry Potter and the Deathly Hallows Part 2,I Open At the Close,231,sadness,1
+Harry Potter and the Deathly Hallows Part 2,The Boy Who Lived,232,surprise,1
+Harry Potter and the Deathly Hallows Part 2,The Boy Who Lived,232,neutral,1
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,happiness,2
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,hate,1
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,fun,2
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,relief,1
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,empty,1
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,sadness,4
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,surprise,2
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,worry,10
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,neutral,8
+Harry Potter and the Deathly Hallows Part 2,King's Cross,233,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 2,Declare Yourself,234,sadness,2
+Harry Potter and the Deathly Hallows Part 2,Declare Yourself,234,worry,1
+Harry Potter and the Deathly Hallows Part 2,Declare Yourself,234,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Declare Yourself,234,neutral,1
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,love,1
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,neutral,3
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,worry,2
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,surprise,1
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,relief,1
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Not Over,235,sadness,1
+Harry Potter and the Deathly Hallows Part 2,The Wand's Choice,236,neutral,2
+Harry Potter and the Deathly Hallows Part 2,The Wand's Choice,236,love,1
+Harry Potter and the Deathly Hallows Part 2,The Wand's Choice,236,sadness,1
+Harry Potter and the Deathly Hallows Part 2,The Wand's Choice,236,worry,1
+Harry Potter and the Deathly Hallows Part 2,The Wizard's Choice,237,worry,3
+Harry Potter and the Deathly Hallows Part 2,The Wizard's Choice,237,neutral,2
+Harry Potter and the Deathly Hallows Part 2,The Wizard's Choice,237,enthusiasm,1
+Harry Potter and the Deathly Hallows Part 2,The Wizard's Choice,237,sadness,2
+Harry Potter and the Deathly Hallows Part 2,Nineteen Years Later,238,sadness,2
+Harry Potter and the Deathly Hallows Part 2,Nineteen Years Later,238,happiness,1
+Harry Potter and the Deathly Hallows Part 2,Nineteen Years Later,238,worry,1
+Harry Potter and the Deathly Hallows Part 2,Nineteen Years Later,238,love,1
