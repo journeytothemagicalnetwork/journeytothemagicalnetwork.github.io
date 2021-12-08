@@ -1,0 +1,709 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+    <head>
+        <!-- meta data -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+        <!--font-family-->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext" rel="stylesheet">
+        
+        <!-- title of site -->
+        <title>Harry Potter's Secret Graph</title>
+
+        <!-- For favicon png -->
+		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
+       
+        <!--font-awesome.min.css-->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+		<!--flat icon css-->
+		<link rel="stylesheet" href="assets/css/flaticon.css">
+
+		<!--animate.css-->
+        <link rel="stylesheet" href="assets/css/animate.css">
+
+        <!--owl.carousel.css-->
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		
+        <!--bootstrap.min.css-->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		
+		<!-- bootsnav -->
+		<link rel="stylesheet" href="assets/css/bootsnav.css" >	
+        
+        <!--style.css-->
+        <link rel="stylesheet" href="assets/css/style.css">
+        
+        <!--responsive.css-->
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		
+        <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+	
+	<body>
+		<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+		
+		<!-- top-area Start -->
+		<header class="top-area">
+			<div class="header-area">
+				<!-- Start Navigation -->
+			    <nav class="navbar navbar-default bootsnav navbar-fixed dark no-background">
+
+			        <div class="container">
+
+			            <!-- Start Header Navigation -->
+			            <div class="navbar-header">
+			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+			                    <i class="fa fa-bars"></i>
+			                </button>
+			                <a class="navbar-brand" href="index.html">Harry Potter's secret Graph</a>
+			            </div><!--/.navbar-header-->
+			            <!-- End Header Navigation -->
+
+			            <!-- Collect the nav links, forms, and other content for toggling -->
+			            <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
+			                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+			                <li class="smooth-menu active"></li>
+			                	<li class="smooth-menu"><a href="#intro">Intro</a></li>
+			                    <li class="smooth-menu"><a href="#project1">Wordclouds</a></li>			                    
+			                    <li class="smooth-menu"><a href="#project2">Communities</a></li>
+			                    <li class="smooth-menu"><a href="#project3">Sentiment</a></li>
+			                    <li class="smooth-menu"><a href="#project4">Node to Vector</a></li>
+			                    <li class="smooth-menu"><a href="#project5">Emotion</a></li>
+			                </ul><!--/.nav -->
+			            </div><!-- /.navbar-collapse -->
+			        </div><!--/.container-->
+			    </nav><!--/nav-->
+			    <!-- End Navigation -->
+			</div><!--/.header-area-->
+
+		    <div class="clearfix"></div>
+
+		</header><!-- /.top-area-->
+		<!-- top-area End -->
+	
+		<!--welcome-hero start -->
+		<section id="welcome-hero" class="welcome-hero">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<div class="header-text">
+							<h2><span>h</span>arry <span>p</span>otter: <br> a journey <br> to the magical graph <span>.</span>   </h2>
+							<p>Welcome to our final project, a trip where the unknown is unveiled <br> through the understanding of networks and natural language processing.</p>
+							<a href="https://nbviewer.jupyter.org/github/sanfranciscodatatrip/sanfranciscodatatrip.github.io/blob/main/jupyter_notebook/Final_project_SF311.ipynb" target="_blank">Jupyter Notebook</a>
+						</div><!--/.header-text-->
+					</div><!--/.col-->
+				</div><!-- /.row-->
+			</div><!-- /.container-->
+
+		</section><!--/.welcome-hero-->
+		<!--welcome-hero end -->
+
+
+		<section id="intro" class="about">
+			<div class="section-heading text-center">
+				<h2>INTRODUCTION</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">
+							<p style="text-align:justify;text-indent: 0px;">								
+							<b>This webpage is the final project for the course Social graphs and interactions (02805) offered by the Technical University of Denmark.</b>
+							<br>
+							Welcome to this journey through the depths of the complaints San Francisco citizens make through SF311. If you are looking for a more detailed analysis and explanation through all the process, the explainer <b>jupyter notebook</b> for this project is available in <b>several formats</b> in order to ensure it can properly be viewed, availabe as <a href="https://nbviewer.jupyter.org/github/sanfranciscodatatrip/sanfranciscodatatrip.github.io/blob/main/jupyter_notebook/Final_project_SF311.ipynb" target="_blank"><b>nbviewer</b></a>, or as <a href="Final_project_SF311_Notebook.html" target="_blank"><b>HTML page</b></a> if nbviewer doesn't work properly, and can also be accessed from the orange button in the beginning of the page. Enjoy!
+							<br>
+							The following video summarizes the central idea of the project, outlines the elements needed for its execution and shows the implementation plan.
+							<br>
+							<br>
+							</p>
+							<p>
+							<iframe style="display: block; margin: auto;" width="854" height="480" src="https://www.youtube.com/embed/QeJqHtM3eUQ" title="Harry Potter and the Graph of Secrets - Social Graphs and Interactions 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</p>
+							<h2>
+								<br>
+								Explainer notebook
+							</h2>
+							<p style="text-align:justify;text-indent: 0px;">
+								The project explainer notebook can be found on <a href="https://github.com/aviationcovideu/aviationcovideu.github.io/blob/main/jupyter_notebooks/Explainer_notebook_project.ipynb">GitHub</a> and <a href="https://nbviewer.jupyter.org/github/aviationcovideu/aviationcovideu.github.io/blob/main/jupyter_notebooks/Explainer_notebook_project.ipynb">nbviewer</a>.
+							</p>
+							<br>
+							<h2>
+								Datasets
+							</h2>
+							<p style="text-align:justify;text-indent: 0px;">
+								The datasets used for the analysis are:
+								<p style="text-align:justify;text-indent: 0px;">
+								Flights dataset. <a href="https://zenodo.org/record/4299838#.X9CIFBNKj8M">Dataset from Zenodo</a>, the data in this dataset is derived and cleaned from the full OpenSky dataset.   
+								  	<a href="https://zenodo.org/record/4299838#.X9CIFBNKj8M">
+								  		<img src="./EU AVIATION - COVID-19_files/zenodo_logo.png" alt="zenodo" width="100" height="100">
+								  	</a>
+							</p>
+							<br>
+							<br>
+							<h3>
+								Introduction to the Basic Statistics and the Network
+							</h3>
+							<p style="text-align:justify;text-indent: 0px;">
+								First of all, we started with a study of the Harry Potter wiki page, looked at how we could extract information and brainstormed possible ideas for the scope of our final project. We decided to begin by extracting information on as many characters as possible and, to commence with, categorising them by their Hogwarts houses:
+							</p>
+							<br>
+								<table  class="center" style="text-align:center">
+									<tr>
+										<th><img alt='Gryffindor' src='assets/images/Gryffindor.png' width='200'></th>
+										<th><img alt='Ravenclaw' src='assets/images/Ravenclaw.png' width='200'></th>
+										<th><img alt='Hufflepuff' src='assets/images/Hufflepuff.png' width='200'></th>
+										<th><img alt='Slytherin' src='assets/images/Slytherin.png' width='200'></th>
+									</tr>
+									<tr>
+										<td><h2>Gryffindor</h2></td>
+										<td><h2>Ravenclaw</h2></td>
+										<td><h2>Hufflepuff</h2></td>
+										<td><h2>Slytherin</h2></td>
+									</tr>
+								</table>
+							<br>
+							<p style="text-align:justify;text-indent: 0px;">
+								text
+								<br>
+								<img src="assets/images/graph_houses.png" alt="Graph Houses" width="10000" height="1000" >
+								<br>
+								<h2>Part b: WordClouds based on character wiki-pages                       
+	                            </h2>
+	                            <br>
+								<img src="assets/images/graph_harrypotter.png" alt="Graph Harry Potter" width="10000" height="1000">
+							</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--environment end -->
+
+
+		<section id="project1" class="about">
+			<div class="section-heading text-center">
+				<h2><b>Project 1</b> - WordCloud analysis of houses</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">					
+							<p style="text-align:justify;text-indent: 0px;">
+								This part is about analysing the different houses of Hogwarts with the use of wordclouds, i.e. we will generate images consisting of words, with the size of the words in the image proportional to the number of times that word appear in the string used to generate the image. Firstly, we want to analyse how the members of the different houses speak and see if there are any patterns/trends there. Secondly, we want to use the characters' wiki-descriptions to look for any trends/differences between the houses.
+								<h2><b>Part A -</b> WordClouds based on character dialogue                     
+                            	</h2>
+								<br>
+								<p style="text-align:justify;text-indent: 0px;">
+	                            	For the analysis of the way members of the different houses speak, we used the movie scripts data. The results are shown in the wordclouds below: 
+	                            <br>
+	                            <br>
+								<img src="assets/images/script_WordClouds.png" alt="Script WordClouds" class="center-im">
+								<br>
+								<br>
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Gryffindor</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									We can see that the names Harry, Ron and Hermione appear a lot in the Gryffindor script. This makes sense as these are the three main characters we follow throught the movies and they are all from the Gryffindor house, hence when they talk to each other they will likely say each other's names. The fact that the word Voldemort also appears often shows that Voldemort is an imprtant charcter in the movies, but also that the main characters aren't scared of saying "He-who-must-not-be-named"'s name, character traits of true heros.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Ravenclaw</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									One name which appears often here is Luna, which is from Luna Lovegood who is an important character of the Ravenclaw house. Words such as "wand" and "disarm" show that often when we come across Ravenclaw charcters in the movies it involves them performing magic. Finally, two words of great importance are "deathly" and "hallows" which display the part members of the Ravenclaw house played during the wars in the final two movies (Harry Potter and the Deathly Hallows part 1 and 2). Luna Lovegood's father, Xenophilius Lovegood, wears a symbol of the Deathly Hallows, which could be another reason why those words appear so much.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Slytherin</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									One thing that stands out here after havig watched the movies are the words "Potter", "Weasley", and "mudblood", which isnantly makes one thing of Draco Malfoy when he mucks the trio. He often refers to Hermione as "mudblood", and refers to Harry and Ron as "Potter" and "Weasley" in very degreading ways. Words such as "lord" and "prophesy" shows that the Slytherins look up to "Lord Voldemort", and words like "kill" show their even nature.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Hufflepuff</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									Basically all words in the script tc-idf WordCloud of the Hufflepuff house are associated with the Mandrake plants. Words like "mandrake", "seeding", "earmuffs", "pull" and "pot" show this.
+								<br>
+								<br>
+								<h2><b>Part B -</b> WordClouds based on character wiki-pages                       
+	                            </h2>
+	                            <p style="text-align:justify;text-indent: 0px;">
+	                            	For the analysis of the characters' wiki-pages, we used the DataFrame created from the Harry Potter wiki pages. The results obtained are shown in the wordclouds below: 
+	                            <br>
+	                            <br>
+								<img src="assets/images/wiki_WordClouds.png" alt="Wiki WordClouds" class="center-im">
+								<br>
+								<br>
+								<h2 style="text-align:justify;text-indent: 30px;"><u>All Houses</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									Some words that occur in the WordClouds of each house are words such as "professor", "death", "wand" and "magic". These words describe the overall jist of the movies: It's about magic at a school, and there's a lot of death and grief.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Gryffindor</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									"Friend", "muggle" and "battle" are some of the words that stand out in the Gryffindor WordCloud. The fact that words liek "friend" and "muggle" appear often could be a sign that the Gryffindor house is more open for muggle-born wizards and witches, and also has a more friendly vibe than other houses. The word "battle" might show that the are a lot of members of the Gryffindor house who are involved in the battle aginst Voldemort.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Ravenclaw</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									For the Ravenclaws, word such as "book" and "class" show that they have a strong focus on academia.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Slytherin</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									Here, the word "voldemort" stands out even more than in the other houses' WordClouds, this makes sense since many Slytherins are fighting for him, and he himself is a part of the Slytherin house. Words like "kill" and "killing" again show the evil nature of the Slytherins.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Hufflepuff</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									Again, here for the WordClouds based on the wiki descriptions, a major part of the Hufflepuff WordCloud is based around the plants. "plant", "greenhouse", "mandrake", and "herbology" show this.
+							</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--about end -->
+
+
+
+		<!--EDIT-->
+		<!--housing start -->
+		<section id="project2" class="about">
+		
+			<div class="section-heading text-center">
+				<h2><b>Project 2</b> - Communities</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">
+                            <p style="text-align:justify;text-indent: 0px;">
+								In this section we will group all the characters together into communities using the <b>Louvain algorithm</b>. We will do this in order to see if any interesting partitions occur, e.g. <i>Will all the professors end up in a group together? Will the "good" characters be grouped together and the "evil" characters together?</i>
+								<br>
+								<br>
+								The <b>Louvain algorithm</b> belongs to the class of modularity maximization algorithms for community detection, it tries to optimize the overall modularity of the found partitionning. In terms of its functioning, it works by repeating two steps until the communities found in the last iteration don't have a better modularity than those in the previous iteration. These 2 steps are:
+								<br>
+								<br>
+								<b> - Step One:</b> Each node in the network is assigned its own community, and the modularity of the graph is calculated. Then, each node is grouped with each of its neighbours to form a new tentative community, and the net change in total modularity is calculated from the resulting graph. Once this has been done for all of a node's neighbours, the tentative community that provided the greatest increase in modularity is chosen and becomes an actual community (that is, the two nodes that were grouped are assigned the same community). The algorithm then procedes to the next node and does the same until all nodes have been processed.
+								<br>
+								<br>
+								<b> - Step Two:</b> The second step consists in building a new network in which each newly determined community is represented by a single node. The weights of the links between the nodes (former communities) in the new network are given by summing up the weights of the links between nodes in the two former communities. After the creation of the network, step one is done again.
+								The algorithm ends when there is no more positive gain achieved to the modularity of the network when re-doing step one.
+								<br>
+								<br>
+								We are using the Louvain algorithm in order to identify our communities. It is worth noting that the Louvain algorithm is nondeterministic and dependent on the order in which the nodes are processed. That is why we have used a random seed, so that we can comment on the results without having to worry about them changing if the notebook is run again.
+								<img src="assets/images/communities_sizes.png" alt="Communities Sizes" width='700' class="center-im">
+								In order to have a better insight of the communities, here is the list of most relevant characters in each community number:
+							</p>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 40px; font-size:75%;">
+								<b>1:</b>  ['Harry Potter', 'Ronald Weasley', 'Hermione Granger', 'Ginevra Weasley', 'Neville Longbottom', 'Dolores Umbridge', 'Rubeus Hagrid', 'Luna Lovegood']
+								<br>
+								<b>2:</b>  ['Angelina Appleby', 'Filemina Alchin', 'Oona Ballington', 'Concepta Battista', 'Betty Bickering', 'Hugh Biggs', 'Mike Boon', 'Jason Charmer']
+								<br>
+								<b>3:</b>  ['Miles Bletchley', 'Kevin Bletchley', 'Bletchley (musician)']
+								<br>
+								<b>4:</b>  ['Severus Snape', 'Draco Malfoy', 'Sirius Black', 'Remus Lupin', 'Lucius Malfoy', 'Bellatrix Lestrange', 'Alastor Moody', 'Lily J. Potter', 'Peter Pettigrew']
+								<br>
+								<b>5:</b>  ["Jacob's sibling", 'Nymphadora Tonks', 'William Weasley', 'Charles Weasley', 'Merula Snyde', 'Penny Haywood', 'Rolanda Hooch', 'Barnaby Lee']
+								<br>
+								<b>6:</b>  ['Louise', "Louise's admirer"]
+								<br>
+								<b>7:</b>  ['Imogen Stretton', 'Holden Ledbury', 'Jeremy Stretton']
+								<br>
+								<b>8:</b>  ['Cassius Warrington', 'Ivy Warrington', 'Adrian Pucey', 'Daniel Page', 'Colby Frey', 'Cassandra Vole', 'Fischer Frey', 'Kevin Farrell']
+								<br>
+								<b>9:</b>  ['R. J. H. King', 'Jo King (Slytherin)', 'Emma Vanity (Slytherin)', 'Winky Crockett (Slytherin)', 'Andrew Snowy Owl (Slytherin)', 'Stuart Craggy']
+								<br>
+								<b>10:</b>  ['Nicholas de Mimsy-Porpington', 'Myrtle Warren', 'Helena Ravenclaw', 'Bloody Baron', 'Rowena Ravenclaw', 'Fat Friar', 'Robert Hilliard']
+								<br>
+								<b>11:</b>  ['Albert', 'Arthur (Hufflepuff student)', 'Marilyn']
+								<br>
+								<b>12:</b>  ['Mathilda Grimblehawk', 'Sage Bragnam', "Mathilda Grimblehawk's partner", 'Abraham Grimblehawk', 'Albert Bellchant']
+								<br>
+								<b>13:</b>  ['Albus Dumbledore', 'Tom Riddle', 'Minerva McGonagall', 'Horace Slughorn', 'Filius Flitwick', 'Pomona Sprout', 'Amycus Carrow', 'Sybill Trelawney']
+								<br>
+								<b>14:</b>  ['Maynard Hatton', 'Anthony Otterburn', 'Fergus Cowley']
+								<br>
+								<b>15:</b>  ['James Tuckett (II)', 'James Tuckett (I)']
+							</p>
+							<p style="text-align:justify;text-indent: 0px;">
+
+								We will now have a look at the results and see if we can conclude anything interesting about these communities. Of course we can instantly see from the size distribution plot that community 1 is the largest community by far. Furthermore, when we look at the 10 characters with the highest degree of each community, we also se that this community 1 contains most of the main characters, including Harry, Ron and Hermione. Looking at the other communities' characters with the highest degrees, we can see some interesting patterns form:
+								<br>
+							</p>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 40px; ">
+								<b>Community 1 - </b>This community is the largest by far as can be seen in the distibution of community sizes. We can also see that this partition contains most of the main characters: Harry, Hermione, Ron, Ginny and Hagrid just to name a few.
+								<br>
+								<b>Community 2 - </b>This community is made up of former Gryffindor quiddich captains. These characers don't appear in person anywhere, but they appear on plaques in the movies.
+								<br>
+								<b>Community 3 - </b>This community is made up of three people who all share the same surname, Bletchley. None of them are main characters, one of them is even from the game, however in their wiki descriptions it says that they might be related, hence why they ended in the same partition.
+								<br>
+								<b>Community 4 - </b>This is a fairly large community, and it consists mainly of characters from the Slytherin house.
+								<br>
+								<b>Community 5 - </b>This is another fairly large community, and this community consists of charcters mainly from the Harry Potter video game.
+								<br>
+								<b>Community 6 - </b>This community consists of just two people: "Louise", and "Louise's admirer". They both appear in the Harry Potter game: Harry Potter and the Half-Blood Prince.
+								<br>
+								<b>Community 7 - </b>This is another very small commnity, consisting of just three people: Two Slytherin students who blocked an area of the school together, and one character from the game.
+								<br>
+								<b>Community 8 - </b>This community consists of characters from game and a few old slytherin quiddich players.
+								<br>
+								<b>Community 9 - </b>This is another community consisting of old students of quiddich teams who appear on plaques in the movies.
+								<br>
+								<b>Community 10 - </b>This community contains characters such as Headless Nick, Myrtle Warren and Helena Ravewclaw, who are all ghosts. Indeed, this is a community consisting mainly of the ghosts roaming Hogwarts.
+								<br>
+								<b>Community 11 - </b>Characters from the game: Harry Potter and the Chamber of Secrets.
+								<br>
+								<b>Community 12 - </b>Characters from the Fantastic Beasts movies, many of whom are part of the British Ministry of Magic.
+								<br>
+								<b>Community 13 - </b>This is another large community, and many of it's members are professors at Hogwarts.
+								<br>
+								<b>Community 14 - </b>This is a small community, consisting of just three people. These people were members of the Duelling Club in the Training Grounds during the 1996–1997 school year. The members are Maynard Hatton, Fergus Cowley and Anthony Otterburn.
+								<br>
+								<b>Community 15 - </b>This community has just two people: James Tuckett (I) and James Tuckett (II).
+							</p>
+							<p style="text-align:justify;text-indent: 0px;">
+								<br>
+								For the 8 most relevant communities we have created the following <b>wordclouds</b>, which help identify and understand how the categorization has been made, and gives us insights about the characters in each category.
+								<br>
+								<img src="assets/images/communities_WordClouds.png" alt="Communities WordClouds" class="center-im">
+								<br>
+								For the WordClouds based on the wiki descriptions, we decided to only take those communities who had at least 10 members, as to not get any where the WordClouds were only based on two or three people. This leaves us with 8 communities to calculate the WordClouds for. 
+								<br>
+								<br>
+								We can see in the WordCloud for community 2 that this community is indeed all about quiddich, as some of the most important words are "quiddich", "appears" and "team", and the fact that "Gryffindor" and "captain" are also very important words shows that it is indeed past Gryffindor quiddich captains. 
+								<br><br>
+								Communities 1 and 4 have several similarities, with words such as "Voldemort", "death", "family", "battle" and "friend" appearing, with high importance, in both WordClouds. As these two communities are both large and seems to mainly consist of characters from the movies, it makes sense that a lot of the words are similar. However, as we found that community 4 had many members of the Slytherin house, one might have expected the WordCloud for community 4 to be more "evil" than community 1, but that doesn't seem to be the case. 
+								<br>
+								<br>
+								In communities 8 and 9, we can again see that many of their members were involved with quiddich, especially from the Slytherin house, as words such as "quiddich", "slytherin" and "captain" are very large in these WordClouds. The WordCloud for community 10 also shows that this community does indeed consist of ghosts, as words such as "ghost" and "spirit" are very large, and the names of the ghosts also appear often, e.g. "headless", "nick", "helena", "ravenclaw", etc.
+								<br>
+								
+								<br>
+								<img src="assets/images/communities_sentiment.png" alt="Communities Sentiment" class="center-im">
+								<br>
+								Lastly, when doing the sentiment analysis of the communities, we could only perform this on the communities which countained characters who spoke in the movies, hence only communities 1, 4, 5, 10 and 13 could be analysed. Furthermore, as the characters from communities 5 and 10 don't have many lines in the movies, not a lot can be concluded from them. However, out of the remaining communities, communities 1, 4 and 13, it can be seen that it is actually community 1 which has the lowest sentiment throught the movies. This could be because it is often the main characters which experience suffering and grief in the movies.							
+							</p>						
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--about end -->
+
+		<!--EDIT -->
+		<!--environment start -->
+		<section id="project3" class="about">
+			<div class="section-heading text-center">
+				<h2><b>Project 3</b> - Sentiment Analysis</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">
+							<p style="text-align:justify;text-indent: 0px;">
+								In this section we will look at the characters' sentiment throughout the movies. We will look at the main characters' individual sentiment change throughout the movies, as well as the overall sentiment of each movie and the individual houses' sentiment change throughout the movies. We will be looking at the sentiment of each chapter, and will thus be able to get an insight into the movies.
+	                            <br>
+	                            <h2><b>Part A -</b> Sentiment of characters throughout the movies                     
+                            	</h2>
+                            	<p style="text-align:justify;text-indent: 0px;">
+                            		Here we will be analysing the individual characters' sentiment over the duration of all 8 movies, using both Vader Sentiment and LabMT								
+	                            <br>
+								<iframe width="900" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~mmestre/110.embed"></iframe>
+								<br>
+								<h2><b>Part B -</b> Sentiment analysis each house throught the chapters                     
+                            	</h2>
+                            	<p style="text-align:justify;text-indent: 0px;">
+                            		Here we will be analysing the houses' sentiment over the durating of the movies. We will do this by combining the sentiment of each character belonging to a house. Here we will again be calculating the sentiment per chapter, using both Vader Sentiment and LabMT.								
+								<br>
+								<iframe width="900" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~mmestre/106.embed"></iframe>
+								<br>
+								Please not that, as the sentiments are calculated per chapter, there are several characters whose sentiment graphs aren't complete as they don't appear in every chapter. In order to see the full analysis and development of the code related with this part, please feel free to refer to the explainer notebook.
+								<br>
+								<br>
+								When we look at the main character, Harry Potter, we can see that the VAder sentiment and LabMT sentiment generally tend to follow each other. Sometimes one will have a more extreme peak or dip than the other, for example, the LabMT sentiment has a much more dramatic drop than the vader sentiment at the end of movie 1, where as it's the other way round for a scene near the start of movie 2. The sentiment of Harry Potter seems to remain fairly similar throughout all the movies for both models. 
+								<br>
+								<br>
+								When we look at the other two main characters' sentiment compared to Harry Potter's, we can see that they follow each other quite nicely with a few exceptions, Ron for example has a large dip in the first movie where neither of the others have, and both Ron and Hermione have several drops in movie 7 and the start of 8 where Harry doesn't. Looking at some of the other characters, we see that Dumbledore's sentiment is almost always positive/above average, where as Voldemort's is the opposite, as would be expected.
+								<br>
+								<br>
+								We will now look at the overall sentiment change of the movies as well as the sentiment of each house. First we notice that although the sentiment varies for each chapter, the average sentiment of each movie seems to be about the same. We notice a very large dip in sentiment at the start of movie 2. This is from the scene "Writing on the wall" where Harry hears the snake in the wall talking about killing and and murdering, and Argus Filch says he wants to kill Harry when he sees his cat is dead and thinks Harry was the one who did it. This explains why the sentiment is so low for this scene. 
+								<br>
+								<br>
+								The Gryffindor sentiment follows the overall sentiment almost perfectly, which is likely because many of the main characters are from Gryffindor, hence they make up a large part of script. There is however a large drop in sentiment in the LabMT model towards the end of movie 1. 
+								<br>
+								<br>
+								For the Ravenclaw and Hufflepuff houses, the same problem a with the characters occurs; there are a lot of chapters where they don't talk, so it is hard to conclude much from their sentiment. 
+								<br>
+								<br>
+								For the Slytherin house, we can see that their sentiment is often lower than that of Gryffindor. At the end of movie 8 we see Slytherin has a very high sentiment quickly followed by a very low sentiment, suggesting something changes for the worse for the Slytherins at the end, which is indeed intact with the actual movie.
+							</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--environment end -->
+
+
+		<section id="project4" class="about">
+			<div class="section-heading text-center">
+				<h2><b>Project 4</b> - Node to vector: Similarity between characters</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">
+							<p style="text-align:justify;text-indent: 0px;">
+								This graph made with the Fandom Wiki has some underlying knowledge that can be extracted by it structure. The Louvain community algorithm helped us to understand some of the structure by clustering individuals in group also know as community. However, this does not help us to get information on a node level.
+								<br>
+								<br>
+								For instance, what is the most similar/close character to Harry Potter? With the Louvain community algorithm, we can only say that Harry potter belong to a certain community but nothing more. May we do better with?
+								<br>
+								<br>
+							</p>
+							<h2><u>Tool insights</u></h2>
+							
+							<p style="text-align:justify;text-indent: 0px;">
+								Prerequisite: <i>Skim gram model</i>. If you are familiar with the word2vec skip-gram model, great, if not we recommend <a href="http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/" target="_blank" style="color:blue"><u>this great post</u></a> which explains it in great detail as from this point forward we assume you are familiar with it.
+								<br>
+								<br>
+								The skip-gram neural network model is actually surprisingly simple in its most basic form. Train a simple neural network with a single hidden layer to perform a certain task, but then we’re not actually going to use that neural network for the task we trained it on! Instead, the goal is actually just to learn the weights of the hidden layer–we’ll see that these weights are actually the “word vectors” that we’re trying to learn.
+								<br>
+								<img src="assets/images/Generation_skip.png" alt="Generation_skip" class="center-im" width=500>
+								<br>
+								<img src="assets/images/training.png" alt="training" class="center-im" width=700>
+								<br>
+								<b>Node2vec</b> is an algorithm to generate vector representations of nodes on a graph. node2vec follows the intuition that random walks through a graph can be treated like sentences in a corpus. Each node in a graph is treated like an individual word, and a random walk is treated as a sentence.
+								<br>
+								<br>
+								By feeding these "sentences" into a skip-gram, or by using the continuous bag of words model paths found by random walks can be treated as sentences, and traditional data-mining techniques for documents can be used.
+								<br>
+								<br>
+								The algorithm generalizes prior work which is based on rigid notions of network neighborhoods, and argues that the added flexibility in exploring neighborhoods is the key to learning richer representations of nodes in graphs. The algorithm is an extension of Gensim's word2vec algorithm, and is considered one of the best classifiers for nodes in a graph.
+								<br>
+								<br>
+								The algorithm follow 2 steps: Generation of a chain of nodes with a sampling strategy and training of a Word2vector algorithm such as the skim-gram model.
+								<br>
+								<img src="assets/images/node_to_vect.png" alt="node_to_vect" class="center-im" width=700>
+								<br>
+								High level process:
+							</p>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 40px; ">
+								<b>1 - </b>From a graph, start from a node and generate a defined number of walks through the network with a certain length, that I will call "Sentence". For instance (Node 1 -> Node 5 -> Node 8 -> Node 6)
+								<br>
+								<b>2 - </b>Each of the sentences will be used to train a Word2vector and the output will attached for each unique node, a unique vector.
+								<br>
+								<b>3 - </b>This vector can be compared with other vector by using the cosine similarity
+								<br>
+								<b>4 - </b>The most similar vectors can be traceback to their nodes.
+							</p>
+							<p style="text-align:justify;text-indent: 0px;">
+								For additional information, we recommend you to take a look at <a href="https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef" target="_blank" style="color:blue"><u>this post</u></a> from <i>"towards data science"</i> about node2vec.
+								<br>
+								With no further ado, let's discuss the outcome of this analysis! As always, please refer to the explainer notebook for deeper insights, the code used, useful prints and explanations to understand the process.
+								<br>
+								<br>
+								<h2><b>Finding 1</b> - Who is Harry Potter's closest characters according to the graph?</h2> 
+								<p style="text-align:justify;text-indent: 0px;">
+									These are our results and our comments on them:
+							</p>
+							<img src="assets/images/finding_1_p4.png" alt="node_to_vect"  width=900>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 0px; ">
+								<b>Hermione Granger and Ronald Weasley - </b>Together with Harry, they are forming the Trio of the saga.
+								<br>
+								<b>Tom Riddle - </b>Also know as Voldemort, which is the supreme enemy of Harry Potter.
+								<br>
+								<b>Draco Malfoy - </b>It is the rival of Harry Potter.
+								<br>
+								<b>Ginevra Weasley - </b>She is Harry Potter's wife.
+								<br>
+								<b>Dolores Umbridge and Severus Snape - </b>Two professors (Head of the Improper Use of Magic Office and Co-Leader of Duelling Club at Hogwarts) that teach Harry Potter at Hogwarts.
+								<br>
+								<b>Rubeus Hagrid - </b>Hagrid is Harry's friend – and soon, he's also friends with Ron and Hermione. He invites them all to tea at his house on their days off, and he tells them the secret of his baby dragon.
+								<br>
+								<b>Neville Longbottom - </b>They were good friends as well as classmates and room mates at Hogwarts and Neville supported Harry against Voldemort by joining Dumbledore's Army and destroying the last piece of Horcrux that made Voldemort mortal again, Nagini. Also, both James and Lily(Harry's parents) and Frank and Alice(Neville's parents) were out and out an opposition to Voldemort as well as they were notable members of The Order of the Phoenix.
+								<br>
+								<b>Sirius Black - </b>Sirius is Harry's godfather and sometimes treats him like a son, but at other times he seems to forget Harry isn't his best friend, James Potter
+								<br>
+								<b>Albus Dumbledore - </b>Dumbledore is the man from whom Harry has learned most about being a wizard and a human being. Throughout their six years together, Albus Dumbledore spends a great deal of his time teaching Harry about life in the way most parents do.
+								<br>
+							</p>
+							<h2><b>Finding 2</b> - Who is Harry Potter's lover, according to the graph?</h2> 
+								<p style="text-align:justify;text-indent: 0px;">
+									Since all the nodes are now encoded into vectors, we can do some mathematical operations with it!
+									<br>
+									<br>
+									For instance: <b>King-man+Woman = Queen</b>
+									<br>
+									<br>
+									Since we only have the name of the characters, we want to play with their hearts. We know that Ronald Weasley and Hermione Granger are together but we can't find the name of Harry Potter's wife... To find it, let's do:
+								<p style="text-align:justify;text-indent: 0px; margin-left: 40px; ">
+									<b>Harry Potter + (Love) = Harry Potter's lover</b>
+									<br>
+									<b>Harry Potter + (Ronald Weasley - Hermione Granger) = Harry Potter's lover</b>
+									<br>
+								</p>
+								<p style="text-align:justify;text-indent: 0px;">
+									Our results:
+									<br>
+									<img src="assets/images/finding_2_p4.png" alt="node_to_vect"  width=900>
+									<br>
+									<br>
+									Wonderful!! Thank you Node to Vector for refreshing our memories!
+									<br>
+									<img src="assets/images/HP_lover.png" alt="node_to_vect"  width=600  class="center-im" >
+								</p>
+								<br>
+								<br>
+								<h2><b>Finding 3</b> -  Can we see understand the louvain communities with the Node to Vector algorithm?</h2>
+								<br>
+								<img src="assets/images/louvain_communities.png" alt="louvain_communities" >
+								<br>
+								<p style="text-align:justify;text-indent: 0px;">
+									At first glance, the t-SNE algorithm comes with a better differentiation between the Community than the House. This confirms the modularity higher found by the Louvain Algorithm for the partition rather than the house. \
+									<br>
+									<br>
+									On the left figure, the group composed mostly by the community 5, seems to be quite distinct from the rest of the nodes: Those consist of characters from the Harry Potter video game. Therefore, it makes sense to have this group set aside. However, if we look at the same points from the House perspective, they do not look like an homogenous group.
+									<br>
+									<br>
+									The community 4, represented in Green on the figure on the left, is a fairly large community, and it consists mainly of characters from the Slytherin house. We can definitely agree on that by looking at the same points bu with the house labels.
+									<br>
+									<br>
+									To sum up, the Louvain algorithm proved that is can pick up communities in a better way than just looking at the house and this can be shown by plotting each of the node (represented by a vector created by the Node to Vector Algorithm).
+								</p>
+							</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--environment end -->
+
+
+		<section id="project5" class="about">
+			<div class="section-heading text-center">
+				<h2><b>Project 5</b> - Emotion</h2>
+			</div>
+			<div class="container">
+				<div class="about-content">
+					<div class="row">						
+						<div class="single-about-txt">
+							<p style="text-align:justify;text-indent: 0px;">
+								The emotion behind a character is defined by more than just positive or negative sentiment. To get complex emotion such as happiness, hate or worry, we need to train a model to recognize those sentiments on a training set and apply it to the Harry Potter's movie scripts. This technique is called transfer learning.
+								<br>
+								<h2><u>Tool insights</u></h2></p>
+								<h2><b>Part A -</b> Train a model on a training set</h2>
+							<p style="text-align:justify;text-indent: 0px;">
+								For the analysis of the emotion of the characters, we will use a database composed of tweets that have been classified into 13 emotions (Main emotion of the tweet). <a href=" https://www.kaggle.com/icw123/emotion" target="_blank" style="color:blue"><u>Find the link here</u></a>
+							</p>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 40px; ">
+								<b>Step 1 - </b>Creation of the functions that will clean the data.
+								<br>
+								<b>Step 2 - </b>Loading the database of the tweets.
+								<br>
+								<b>Step 3 - </b>Reduction of the number of emotions from 13 to 11 (anger and boredom) due to lack of examples to train the model.
+								<br>
+								<b>Step 4 - </b>Converting each emotion to an integer.
+								<br>
+								<b>Step 5 - </b>Preprocess the tweet to remove useless part of the string..
+								<br>
+								<b>Step 6 - </b>Filtering data to only use tweets with more than two words after processing.
+								<br>
+								<b>Step 7 - </b>Convert words into vectors of numbers to allow use within models by using TfidfVectorizer with unigrams and bigrams.
+								<br>
+								<b>Step 8 - </b>Resample the data so that each emotion has an equal number of tweets.
+								<br>
+								<b>Step 9 - </b>Train our favorite ML algorithm on the tweets.
+								<br>
+							</p>
+								<h2><b>Part B -</b> Apply the model on the Harry Potter scripts</h2>
+							<p style="text-align:justify;text-indent: 0px; margin-left: 40px; ">
+								<b>Step 10 - </b>Preprocess the Harry Potter's scripts.
+								<br>
+								<b>Step 11 - </b>Apply our favorite ML algorithm on Harry Potter's scripts.
+								<br>
+								<b>Step 12 - </b>Converting each emotion integer into emotion string.
+								<br>
+								<b>Step 13 - </b>Addition of columns of futur plotting.
+								<br>
+
+								<img src="assets/images/most_common_emotions_saga.png" alt="Most Common Emotions of the Saga" >
+								<br>
+								The plot below shows the impact of each emotion or feeling in each scene of the entire Harry Potter saga. The weight of the feelings of each scene has been calculated by considering the following emotions: happiness, love, surprise, fun, enthusiasm and relief are all rather good emotions, whereas worry, sadness and hate are bad. Finally we have neutral, and empty groups all the rest of emotions that the obtained from the models.
+								<br>
+								<iframe width="900" height="500" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~mmestre/96.embed"></iframe>
+								<br>
+								<p style="text-align:justify;text-indent: 0px;">
+								Below we take a closer look at the analysis of the results of this fantastic tool we have developed to study the unfolding of sentiment in films. Please feel free to play around with the graph as it is highly interactive!
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Happiness</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- When looking at the impact happiness has in the movies we can clearly see 3 spikes. The first two we see make a lot of sense since they are located towards the ending of movies 1 and 2, which are well known for having very happy endings in comparison with the rest of the saga.
+									<br>
+									- Another spike can be seen in Harry Potter and the Deathly Hallows part 1, in the moment when Hermione and Harry discover that they can use Gryffindor sword, which was left for Harry by Dumbledore, to destroy horrocruxes.
+									<br>
+									- Just by looking at the plot it can be seen that happiness is in decline as the saga progresses, and in fact it is widely acknowledged by fans that the films get darker and darker, going from a compilation of children's films to a totally adult mood.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Sadness</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- The most highlighted moment of sadness throughout all of the movies can be seen towards the end of the last movie, when Harry Potter dies (coming back to life afterwards) and Hogwarts is partially destroyed when fighting against de dark lord Voldemort.
+									<br>
+									- A very relevant part considering sadness can be noted at the end of Harry Potter and the Order of the Phoenix, when Bellatrix Lestrange strikes Sirius Black with the killing curse and kills him in fron of Harry. A very sad moment.
+									<br>
+									- It can also be seen at the beginning of the chamber of secrets a spike, related with the visit Dobby pays Harry to warn him about going to Hogwarts.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Love</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- As expected, we can see love highlights in the beginning and ending of the first and second movies, and in the end of the saga when Harry kills Voldemort, Hogwarts is saved and there is a fast-forward where we can see Harry and Giny Weasley married and with a son.
+									<br>
+									- Highest spikes in love are shown in movies 4 and 7. When looking into the Goblet of Fire, those scenes are related with the Quidditch world cup, where there is a lot of fun and party and all the Weasleys, Hermione and Harry are together. In the Deathly Hallows part 1, in the beginning of the movie, the Dursleys leave Privet Drive and leave Harry, and Hermione uses "obliviate" on her parents to erase their memories to make them think they did not have a daughter. Both are very loving emotive moments.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Hate</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- In regards to hate, there is a very remarkable scene in the Chamber of Secrets. Harry wanders through the corridors of Hogwarts following the sounds and whispers of the Basilisc. Then he encounters MrNorris, Argus Filch's cat, petrified and hung on a lamp next to a message written on a wall. Filch is absolutely furious about this and thinks Harry did that to his cat. Also Hermione claims that the message on the wall is written in blood. There is a lot of hate in this scene overall, mainly driven by Argus Filch's thoughts towards harry for killing his cat. Amazing insight!
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Fun</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- According to the results, the most fun scene happens in the end of Harry Potter and the Prisoner of Azkaban. Harry and Hermione save Sirius Black and Buckbeak, and afterwards go back to the hospital wing to visit Ron. He is already awake and asks how he and Hermione got outside the wing, when they were right in front of him (time travelling).
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Worry</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- This emotion is quite stable or monotonous throughout the films. It can be said that due to the very nature of the style of the films, the plot and the events, a very " worrying " result was to be expected in general. In addition, when compared to other feelings such as happiness or sadness, the weight or percentage impact on the overall feeling of each scene is much higher on average for worry.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Relief</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- At the beginning of the Chamber of Secrets, Harry goes to Diagon Alley using the Floo Powder mixup but he mispronounces "Diagon Alley" as "diagonally" out of a panic thanks to watching the effect of the Floo Powder as a demonstration. He then appears in a rather "dark" part of the Diagon Alley, but then he finds his way back and the overall relief feeling makes sense!
+									<br>
+									- Towards the end of Harry Potter and the Prisoner of Azkaban, Harry and Hermione save Sirius Black and Buckbeak after travelling back in time. The final part is quite a relief as their efforts to save the situation are fulfilled.
+								<h2 style="text-align:justify;text-indent: 30px;"><u>Neutral</u></h2>
+								<p style="text-align:justify;text-indent: 0px;">
+									- Although it is very exciting to talk about powerful feelings like happiness, sadness, hate... Harry Potter is characterised by one feeling above all others, the neutral one. As boring as that may sound, most of the sentences are characterised by that feeling as they are neither extremely happy nor sad. Moreover, since it is all dialogue, most of the words used are neutral in character. Therefore, it makes perfect sense to have obtained these results in the plot.
+									<br>
+									- However, it is worth noting that the feelings of worry and neutral both have a similar impact in each scene. This helps determine the general nature of the Harry Potter saga.
+							</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section><!--/.about-->
+		<!--environment end -->
+
+
+	    <footer id="footer-copyright" class="footer-copyright">
+			<div class="container">
+				<div class="hm-footer-copyright text-center">
+					<p>
+						© Content developed by Jakob Fahl, Marc Roma and Paul Romieu for the course Social Graphs and Interactions (02805) offered by the Technical University of Denmark. <br>Template designed and developed by <a href="https://www.themesine.com/">themesine</a>
+					</p><!--/p-->
+				</div><!--/.text-center-->
+			</div><!--/.container-->
+
+			<div id="scroll-Top">
+				<div class="return-to-top">
+					<i class="fa fa-angle-up " id="scroll-top"></i>
+				</div>
+				
+			</div><!--/.scroll-Top-->
+		</footer>
+		
+        
+    </body>
+	
+</html>
